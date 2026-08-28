@@ -1,0 +1,65 @@
+{
+  "id": "granth",
+  "name": "Sri Guru Granth Sahib",
+  "religion": "Sikhism",
+  "translation": "Japji Sahib & Sacred Hymns — Sant Singh Khalsa",
+  "unitLabel": "Pauri",
+  "sections": [
+    {
+      "id": "japji-sahib",
+      "name": "Japji Sahib (Guru Nanak Dev Ji)",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "Mool Mantar & Pauris 1–5",
+          "subtitle": "The primal revelation of the One Supreme Reality",
+          "verses": [
+            {
+              "number": 1,
+              "text": "One Universal Creator God, Truth by Name, Creative Being Personified, No Fear, No Hatred, Image of the Undying, Beyond Birth, Self-Existent, By the Guru’s Grace.",
+              "original": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
+              "transliteration": "Ik Oankar Sat Naam Kartaa Purakh Nirbhau Nirvair Akaal Moorat Ajoonee Saibhang Gur Prasaad."
+            },
+            {
+              "number": 2,
+              "text": "True in the primal beginning, True throughout the ages, True here and now, O Nanak, forever and ever True.",
+              "original": "॥ ਜਪੁ ॥ ਆਦਿ ਸਚੁ ਜੁਗਾਦਿ ਸਚੁ ॥ ਹੈ ਭੀ ਸਚੁ ਨਾਨਕ ਹੋਸੀ ਭੀ ਸਚੁ ॥",
+              "transliteration": "Aad Sach Jugaad Sach. Hai Bhee Sach Naanak Hosee Bhee Sach."
+            },
+            {
+              "number": 3,
+              "text": "By thinking, He cannot be reduced to thought, even by thinking hundreds of thousands of times. By remaining silent, inner silence is not obtained, even by remaining lovingly absorbed deep within.",
+              "original": "ਸੋਚੈ ਸੋਚਿ ਨ ਹੋਵਈ ਜੇ ਸੋਚੀ ਲਖ ਵਾਰ ॥ ਚੁਪੈ ਚੁਪ ਨ ਹੋਵਈ ਜੇ ਲਾਇ ਰਹਾ ਲਿਵ ਤਾਰ ॥",
+              "transliteration": "Sochai soch na hova-ee jay sochee lakh vaar..."
+            },
+            {
+              "number": 4,
+              "text": "How then shall we become truthful? How can the veil of illusion be torn away? O Nanak, it is written that you shall obey the Hukam, His Command, and walk in the Way of His Will.",
+              "original": "ਕਿਵ ਸਚਿਆਰਾ ਹੋਈਐ ਕਿਵ ਕੂੜੈ ਤੁਟੈ ਪਾਲਿ ॥ ਹੁਕਮਿ ਰਜਾਈ ਚਲਣਾ ਨਾਨਕ ਲਿਖਿਆ ਨਾਲਿ ॥",
+              "transliteration": "Kiv sachiaaraa ho-ee-ai kiv koorai tutai paal? Hukam rajaa-ee chalnaa naanak likhi-aa naal."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Salok & Closing Benediction",
+          "subtitle": "Air is the Guru, Water the Father, Earth the Mother",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Air is the Guru, Water is the Father, and Earth is the Great Mother of all. Day and night are the two nurses in whose lap the whole world plays.",
+              "original": "ਪਵਣੁ ਗੁਰੂ ਪਾਣੀ ਪਿਤਾ ਮਾਤਾ ਧਰਤਿ ਮਹਤੁ ॥ ਦਿਵਸੁ ਰਾਤਿ ਦੁਇ ਦਾਈ ਦਾਇਆ ਖੇਲੈ ਸਗਲ ਜਗਤੁ ॥",
+              "transliteration": "Pavan guroo paanee pitaa maataa dharat mahat..."
+            },
+            {
+              "number": 2,
+              "text": "Those who have meditated on the Naam and departed after working with the sweat of their brow — their faces are radiant, O Nanak, and many are liberated along with them!",
+              "original": "ਜਿਨੀ ਨਾਮੁ ਧਿਆਇਆ ਗਏ ਮਸਕਤਿ ਘਾਲਿ ॥ ਨਾਨਕ ਤੇ ਮੁਖ ਉਜਲੇ ਕੇਤੀ ਛੁਟੀ ਨਾਲਿ ॥",
+              "transliteration": "Jinee naam dhi-aa-i-aa ga-ay masakat ghaal..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="ogbg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1d1916" />
+      <stop offset="50%" stop-color="#241e1a" />
+      <stop offset="100%" stop-color="#14110f" />
+    </linearGradient>
+    <linearGradient id="ogGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f6d365" />
+      <stop offset="100%" stop-color="#fda085" />
+    </linearGradient>
+    <linearGradient id="ogParchment" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#faf6ee" />
+      <stop offset="100%" stop-color="#ebdcc7" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#ogbg)" />
+
+  <!-- Ambient Glow -->
+  <circle cx="950" cy="315" r="280" fill="url(#ogGold)" opacity="0.12" />
+  <circle cx="200" cy="150" r="200" fill="#7a6e60" opacity="0.08" />
+
+  <!-- Left Side Content -->
+  <!-- Badge -->
+  <g transform="translate(100, 110)">
+    <rect width="210" height="38" rx="19" fill="#362d26" stroke="#52443a" stroke-width="1.5" />
+    <circle cx="22" cy="19" r="6" fill="#e5ad42" />
+    <text x="38" y="24" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="14" font-weight="600" fill="#ebdcc7" letter-spacing="1.5">DAILY SCRIPTURE</text>
+  </g>
+
+  <!-- Main Title -->
+  <text x="100" y="235" font-family="'Fraunces', Georgia, serif" font-size="64" font-weight="700" fill="#faf6ee" letter-spacing="-1">EverRead</text>
+  <text x="100" y="295" font-family="'Fraunces', Georgia, serif" font-size="28" font-style="italic" fill="url(#ogGold)">A quiet daily reading companion.</text>
+
+  <!-- Description -->
+  <text x="100" y="365" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="20" fill="#b3a594" width="550">
+    <tspan x="100" dy="0">Read the Holy Bible, Holy Quran, and Bhagavad Gita</tspan>
+    <tspan x="100" dy="30">with structured daily reading plans, streak tracking,</tspan>
+    <tspan x="100" dy="30">and zero account requirements. 100% offline &amp; private.</tspan>
+  </text>
+
+  <!-- Feature Pills -->
+  <g transform="translate(100, 485)">
+    <!-- Pill 1: Bible -->
+    <rect x="0" y="0" width="130" height="42" rx="12" fill="#2d241d" stroke="#4a3c30" stroke-width="1.5" />
+    <text x="18" y="27" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="16" font-weight="600" fill="#faf6ee">✝ Bible</text>
+
+    <!-- Pill 2: Quran -->
+    <rect x="145" y="0" width="140" height="42" rx="12" fill="#2d241d" stroke="#4a3c30" stroke-width="1.5" />
+    <text x="163" y="27" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="16" font-weight="600" fill="#faf6ee">☾ Quran</text>
+
+    <!-- Pill 3: Gita -->
+    <rect x="300" y="0" width="180" height="42" rx="12" fill="#2d241d" stroke="#4a3c30" stroke-width="1.5" />
+    <text x="318" y="27" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="16" font-weight="600" fill="#faf6ee">ॐ Bhagavad Gita</text>
+
+    <!-- Pill 4: Offline -->
+    <rect x="495" y="0" width="170" height="42" rx="12" fill="#1f2c22" stroke="#314e38" stroke-width="1.5" />
+    <text x="515" y="27" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="16" font-weight="600" fill="#78be8b">✓ 100% Offline</text>
+  </g>
+
+  <!-- Right Side Graphic: Book Card Illustration -->
+  <g transform="translate(800, 140)">
+    <!-- Card Frame -->
+    <rect width="300" height="360" rx="24" fill="#26201b" stroke="#4d3f33" stroke-width="2" />
+    
+    <!-- Header Inside Card -->
+    <text x="30" y="45" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="11" font-weight="700" fill="#e5ad42" letter-spacing="1.5">DAY 17 OF 90</text>
+    <text x="30" y="80" font-family="'Fraunces', Georgia, serif" font-size="24" font-weight="600" fill="#faf6ee">Genesis 17</text>
+    <text x="30" y="105" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="13" fill="#9e8f7e">Passage 17:1–14 · ~4 min read</text>
+
+    <!-- Progress Ring -->
+    <circle cx="150" cy="200" r="55" fill="none" stroke="#382e26" stroke-width="10" />
+    <circle cx="150" cy="200" r="55" fill="none" stroke="#e5ad42" stroke-width="10" stroke-dasharray="345" stroke-dashoffset="85" stroke-linecap="round" transform="rotate(-90 150 200)" />
+    <text x="150" y="206" font-family="'Fraunces', Georgia, serif" font-size="24" font-weight="700" fill="#faf6ee" text-anchor="middle">75%</text>
+
+    <!-- Button -->
+    <rect x="30" y="285" width="240" height="46" rx="14" fill="#e5ad42" />
+    <text x="150" y="314" font-family="'Plus Jakarta Sans', system-ui, sans-serif" font-size="15" font-weight="700" fill="#1d1916" text-anchor="middle">Start Reading →</text>
+  </g>
+</svg>

@@ -1,0 +1,3287 @@
+[
+  {
+    "id": "analects-001",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 1
+  },
+  {
+    "id": "analects-002",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 2
+  },
+  {
+    "id": "analects-003",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 3
+  },
+  {
+    "id": "analects-004",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 4
+  },
+  {
+    "id": "analects-005",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 5
+  },
+  {
+    "id": "analects-006",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 6
+  },
+  {
+    "id": "analects-007",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 7
+  },
+  {
+    "id": "analects-008",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 8
+  },
+  {
+    "id": "analects-009",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 9
+  },
+  {
+    "id": "analects-010",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 10
+  },
+  {
+    "id": "analects-011",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 11
+  },
+  {
+    "id": "analects-012",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 12
+  },
+  {
+    "id": "analects-013",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 13
+  },
+  {
+    "id": "analects-014",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 14
+  },
+  {
+    "id": "analects-015",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 15
+  },
+  {
+    "id": "analects-016",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 16
+  },
+  {
+    "id": "analects-017",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 17
+  },
+  {
+    "id": "analects-018",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 18
+  },
+  {
+    "id": "analects-019",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 19
+  },
+  {
+    "id": "analects-020",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 20
+  },
+  {
+    "id": "analects-021",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 21
+  },
+  {
+    "id": "analects-022",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 22
+  },
+  {
+    "id": "analects-023",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 23
+  },
+  {
+    "id": "analects-024",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 24
+  },
+  {
+    "id": "analects-025",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 25
+  },
+  {
+    "id": "analects-026",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 26
+  },
+  {
+    "id": "analects-027",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 27
+  },
+  {
+    "id": "analects-028",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 28
+  },
+  {
+    "id": "analects-029",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 29
+  },
+  {
+    "id": "analects-030",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 30
+  },
+  {
+    "id": "analects-031",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 31
+  },
+  {
+    "id": "analects-032",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 32
+  },
+  {
+    "id": "analects-033",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 33
+  },
+  {
+    "id": "analects-034",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 34
+  },
+  {
+    "id": "analects-035",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 35
+  },
+  {
+    "id": "analects-036",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 36
+  },
+  {
+    "id": "analects-037",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 37
+  },
+  {
+    "id": "analects-038",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 38
+  },
+  {
+    "id": "analects-039",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 39
+  },
+  {
+    "id": "analects-040",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 40
+  },
+  {
+    "id": "analects-041",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 41
+  },
+  {
+    "id": "analects-042",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 42
+  },
+  {
+    "id": "analects-043",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 43
+  },
+  {
+    "id": "analects-044",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 44
+  },
+  {
+    "id": "analects-045",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 45
+  },
+  {
+    "id": "analects-046",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 46
+  },
+  {
+    "id": "analects-047",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 47
+  },
+  {
+    "id": "analects-048",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 48
+  },
+  {
+    "id": "analects-049",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 49
+  },
+  {
+    "id": "analects-050",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 50
+  },
+  {
+    "id": "analects-051",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 51
+  },
+  {
+    "id": "analects-052",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 52
+  },
+  {
+    "id": "analects-053",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 53
+  },
+  {
+    "id": "analects-054",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 54
+  },
+  {
+    "id": "analects-055",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 55
+  },
+  {
+    "id": "analects-056",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 56
+  },
+  {
+    "id": "analects-057",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 57
+  },
+  {
+    "id": "analects-058",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 58
+  },
+  {
+    "id": "analects-059",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 59
+  },
+  {
+    "id": "analects-060",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 60
+  },
+  {
+    "id": "analects-061",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 61
+  },
+  {
+    "id": "analects-062",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 62
+  },
+  {
+    "id": "analects-063",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 63
+  },
+  {
+    "id": "analects-064",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 64
+  },
+  {
+    "id": "analects-065",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 65
+  },
+  {
+    "id": "analects-066",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 66
+  },
+  {
+    "id": "analects-067",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 67
+  },
+  {
+    "id": "analects-068",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 68
+  },
+  {
+    "id": "analects-069",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 69
+  },
+  {
+    "id": "analects-070",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 70
+  },
+  {
+    "id": "analects-071",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 71
+  },
+  {
+    "id": "analects-072",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 72
+  },
+  {
+    "id": "analects-073",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 73
+  },
+  {
+    "id": "analects-074",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 74
+  },
+  {
+    "id": "analects-075",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 75
+  },
+  {
+    "id": "analects-076",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 76
+  },
+  {
+    "id": "analects-077",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 77
+  },
+  {
+    "id": "analects-078",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 78
+  },
+  {
+    "id": "analects-079",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 79
+  },
+  {
+    "id": "analects-080",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 80
+  },
+  {
+    "id": "analects-081",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 81
+  },
+  {
+    "id": "analects-082",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 82
+  },
+  {
+    "id": "analects-083",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 83
+  },
+  {
+    "id": "analects-084",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 84
+  },
+  {
+    "id": "analects-085",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 85
+  },
+  {
+    "id": "analects-086",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 86
+  },
+  {
+    "id": "analects-087",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 87
+  },
+  {
+    "id": "analects-088",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 88
+  },
+  {
+    "id": "analects-089",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 89
+  },
+  {
+    "id": "analects-090",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 90
+  },
+  {
+    "id": "analects-091",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 91
+  },
+  {
+    "id": "analects-092",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 92
+  },
+  {
+    "id": "analects-093",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 93
+  },
+  {
+    "id": "analects-094",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 94
+  },
+  {
+    "id": "analects-095",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 95
+  },
+  {
+    "id": "analects-096",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 96
+  },
+  {
+    "id": "analects-097",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 97
+  },
+  {
+    "id": "analects-098",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 98
+  },
+  {
+    "id": "analects-099",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 99
+  },
+  {
+    "id": "analects-100",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 100
+  },
+  {
+    "id": "analects-101",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 101
+  },
+  {
+    "id": "analects-102",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 102
+  },
+  {
+    "id": "analects-103",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 103
+  },
+  {
+    "id": "analects-104",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 104
+  },
+  {
+    "id": "analects-105",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 105
+  },
+  {
+    "id": "analects-106",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 106
+  },
+  {
+    "id": "analects-107",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 107
+  },
+  {
+    "id": "analects-108",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 108
+  },
+  {
+    "id": "analects-109",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 109
+  },
+  {
+    "id": "analects-110",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 110
+  },
+  {
+    "id": "analects-111",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 111
+  },
+  {
+    "id": "analects-112",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 112
+  },
+  {
+    "id": "analects-113",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 113
+  },
+  {
+    "id": "analects-114",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 114
+  },
+  {
+    "id": "analects-115",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 115
+  },
+  {
+    "id": "analects-116",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 116
+  },
+  {
+    "id": "analects-117",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 117
+  },
+  {
+    "id": "analects-118",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 118
+  },
+  {
+    "id": "analects-119",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 119
+  },
+  {
+    "id": "analects-120",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 120
+  },
+  {
+    "id": "analects-121",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 121
+  },
+  {
+    "id": "analects-122",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 122
+  },
+  {
+    "id": "analects-123",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 123
+  },
+  {
+    "id": "analects-124",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 124
+  },
+  {
+    "id": "analects-125",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 125
+  },
+  {
+    "id": "analects-126",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 126
+  },
+  {
+    "id": "analects-127",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 127
+  },
+  {
+    "id": "analects-128",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 128
+  },
+  {
+    "id": "analects-129",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 129
+  },
+  {
+    "id": "analects-130",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 130
+  },
+  {
+    "id": "analects-131",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 131
+  },
+  {
+    "id": "analects-132",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 132
+  },
+  {
+    "id": "analects-133",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 133
+  },
+  {
+    "id": "analects-134",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 134
+  },
+  {
+    "id": "analects-135",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 135
+  },
+  {
+    "id": "analects-136",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 136
+  },
+  {
+    "id": "analects-137",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 137
+  },
+  {
+    "id": "analects-138",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 138
+  },
+  {
+    "id": "analects-139",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 139
+  },
+  {
+    "id": "analects-140",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 140
+  },
+  {
+    "id": "analects-141",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 141
+  },
+  {
+    "id": "analects-142",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 142
+  },
+  {
+    "id": "analects-143",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 143
+  },
+  {
+    "id": "analects-144",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 144
+  },
+  {
+    "id": "analects-145",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 145
+  },
+  {
+    "id": "analects-146",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 146
+  },
+  {
+    "id": "analects-147",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 147
+  },
+  {
+    "id": "analects-148",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 148
+  },
+  {
+    "id": "analects-149",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 149
+  },
+  {
+    "id": "analects-150",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 150
+  },
+  {
+    "id": "analects-151",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 151
+  },
+  {
+    "id": "analects-152",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 152
+  },
+  {
+    "id": "analects-153",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 153
+  },
+  {
+    "id": "analects-154",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 154
+  },
+  {
+    "id": "analects-155",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 155
+  },
+  {
+    "id": "analects-156",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 156
+  },
+  {
+    "id": "analects-157",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 157
+  },
+  {
+    "id": "analects-158",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 158
+  },
+  {
+    "id": "analects-159",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 159
+  },
+  {
+    "id": "analects-160",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 160
+  },
+  {
+    "id": "analects-161",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 161
+  },
+  {
+    "id": "analects-162",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 162
+  },
+  {
+    "id": "analects-163",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 163
+  },
+  {
+    "id": "analects-164",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 164
+  },
+  {
+    "id": "analects-165",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 165
+  },
+  {
+    "id": "analects-166",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 166
+  },
+  {
+    "id": "analects-167",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 167
+  },
+  {
+    "id": "analects-168",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 168
+  },
+  {
+    "id": "analects-169",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 169
+  },
+  {
+    "id": "analects-170",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 170
+  },
+  {
+    "id": "analects-171",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 171
+  },
+  {
+    "id": "analects-172",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 172
+  },
+  {
+    "id": "analects-173",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 173
+  },
+  {
+    "id": "analects-174",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 174
+  },
+  {
+    "id": "analects-175",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 175
+  },
+  {
+    "id": "analects-176",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 176
+  },
+  {
+    "id": "analects-177",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 177
+  },
+  {
+    "id": "analects-178",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 178
+  },
+  {
+    "id": "analects-179",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 179
+  },
+  {
+    "id": "analects-180",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 180
+  },
+  {
+    "id": "analects-181",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 181
+  },
+  {
+    "id": "analects-182",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 182
+  },
+  {
+    "id": "analects-183",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 183
+  },
+  {
+    "id": "analects-184",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 184
+  },
+  {
+    "id": "analects-185",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 185
+  },
+  {
+    "id": "analects-186",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 186
+  },
+  {
+    "id": "analects-187",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 187
+  },
+  {
+    "id": "analects-188",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 188
+  },
+  {
+    "id": "analects-189",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 189
+  },
+  {
+    "id": "analects-190",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 190
+  },
+  {
+    "id": "analects-191",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 191
+  },
+  {
+    "id": "analects-192",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 192
+  },
+  {
+    "id": "analects-193",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 193
+  },
+  {
+    "id": "analects-194",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 194
+  },
+  {
+    "id": "analects-195",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 195
+  },
+  {
+    "id": "analects-196",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 196
+  },
+  {
+    "id": "analects-197",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 197
+  },
+  {
+    "id": "analects-198",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 198
+  },
+  {
+    "id": "analects-199",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 199
+  },
+  {
+    "id": "analects-200",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 200
+  },
+  {
+    "id": "analects-201",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 201
+  },
+  {
+    "id": "analects-202",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 202
+  },
+  {
+    "id": "analects-203",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 203
+  },
+  {
+    "id": "analects-204",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 204
+  },
+  {
+    "id": "analects-205",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 205
+  },
+  {
+    "id": "analects-206",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 206
+  },
+  {
+    "id": "analects-207",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 207
+  },
+  {
+    "id": "analects-208",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 208
+  },
+  {
+    "id": "analects-209",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 209
+  },
+  {
+    "id": "analects-210",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 210
+  },
+  {
+    "id": "analects-211",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 211
+  },
+  {
+    "id": "analects-212",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 212
+  },
+  {
+    "id": "analects-213",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 213
+  },
+  {
+    "id": "analects-214",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 214
+  },
+  {
+    "id": "analects-215",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 215
+  },
+  {
+    "id": "analects-216",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 216
+  },
+  {
+    "id": "analects-217",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 217
+  },
+  {
+    "id": "analects-218",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 218
+  },
+  {
+    "id": "analects-219",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 219
+  },
+  {
+    "id": "analects-220",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 220
+  },
+  {
+    "id": "analects-221",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 221
+  },
+  {
+    "id": "analects-222",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 222
+  },
+  {
+    "id": "analects-223",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 223
+  },
+  {
+    "id": "analects-224",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 224
+  },
+  {
+    "id": "analects-225",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 225
+  },
+  {
+    "id": "analects-226",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 226
+  },
+  {
+    "id": "analects-227",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 227
+  },
+  {
+    "id": "analects-228",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 228
+  },
+  {
+    "id": "analects-229",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 229
+  },
+  {
+    "id": "analects-230",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 230
+  },
+  {
+    "id": "analects-231",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 231
+  },
+  {
+    "id": "analects-232",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 232
+  },
+  {
+    "id": "analects-233",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 233
+  },
+  {
+    "id": "analects-234",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 234
+  },
+  {
+    "id": "analects-235",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 235
+  },
+  {
+    "id": "analects-236",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 236
+  },
+  {
+    "id": "analects-237",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 237
+  },
+  {
+    "id": "analects-238",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 238
+  },
+  {
+    "id": "analects-239",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 239
+  },
+  {
+    "id": "analects-240",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 240
+  },
+  {
+    "id": "analects-241",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 241
+  },
+  {
+    "id": "analects-242",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 242
+  },
+  {
+    "id": "analects-243",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 243
+  },
+  {
+    "id": "analects-244",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 244
+  },
+  {
+    "id": "analects-245",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 245
+  },
+  {
+    "id": "analects-246",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 246
+  },
+  {
+    "id": "analects-247",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 247
+  },
+  {
+    "id": "analects-248",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 248
+  },
+  {
+    "id": "analects-249",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 249
+  },
+  {
+    "id": "analects-250",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 250
+  },
+  {
+    "id": "analects-251",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 251
+  },
+  {
+    "id": "analects-252",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 252
+  },
+  {
+    "id": "analects-253",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 253
+  },
+  {
+    "id": "analects-254",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 254
+  },
+  {
+    "id": "analects-255",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 255
+  },
+  {
+    "id": "analects-256",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 256
+  },
+  {
+    "id": "analects-257",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 257
+  },
+  {
+    "id": "analects-258",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 258
+  },
+  {
+    "id": "analects-259",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 259
+  },
+  {
+    "id": "analects-260",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 260
+  },
+  {
+    "id": "analects-261",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 261
+  },
+  {
+    "id": "analects-262",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 262
+  },
+  {
+    "id": "analects-263",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 263
+  },
+  {
+    "id": "analects-264",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 264
+  },
+  {
+    "id": "analects-265",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 265
+  },
+  {
+    "id": "analects-266",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 266
+  },
+  {
+    "id": "analects-267",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 267
+  },
+  {
+    "id": "analects-268",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 268
+  },
+  {
+    "id": "analects-269",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 269
+  },
+  {
+    "id": "analects-270",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 270
+  },
+  {
+    "id": "analects-271",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 271
+  },
+  {
+    "id": "analects-272",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 272
+  },
+  {
+    "id": "analects-273",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 273
+  },
+  {
+    "id": "analects-274",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 274
+  },
+  {
+    "id": "analects-275",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 275
+  },
+  {
+    "id": "analects-276",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 276
+  },
+  {
+    "id": "analects-277",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 277
+  },
+  {
+    "id": "analects-278",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 278
+  },
+  {
+    "id": "analects-279",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 279
+  },
+  {
+    "id": "analects-280",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 280
+  },
+  {
+    "id": "analects-281",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 281
+  },
+  {
+    "id": "analects-282",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 282
+  },
+  {
+    "id": "analects-283",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 283
+  },
+  {
+    "id": "analects-284",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 284
+  },
+  {
+    "id": "analects-285",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 285
+  },
+  {
+    "id": "analects-286",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 286
+  },
+  {
+    "id": "analects-287",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 287
+  },
+  {
+    "id": "analects-288",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 288
+  },
+  {
+    "id": "analects-289",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 289
+  },
+  {
+    "id": "analects-290",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 290
+  },
+  {
+    "id": "analects-291",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 291
+  },
+  {
+    "id": "analects-292",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 292
+  },
+  {
+    "id": "analects-293",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 293
+  },
+  {
+    "id": "analects-294",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 294
+  },
+  {
+    "id": "analects-295",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 295
+  },
+  {
+    "id": "analects-296",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 296
+  },
+  {
+    "id": "analects-297",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 297
+  },
+  {
+    "id": "analects-298",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 298
+  },
+  {
+    "id": "analects-299",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 299
+  },
+  {
+    "id": "analects-300",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 300
+  },
+  {
+    "id": "analects-301",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 301
+  },
+  {
+    "id": "analects-302",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 302
+  },
+  {
+    "id": "analects-303",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 303
+  },
+  {
+    "id": "analects-304",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 304
+  },
+  {
+    "id": "analects-305",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 305
+  },
+  {
+    "id": "analects-306",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 306
+  },
+  {
+    "id": "analects-307",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 307
+  },
+  {
+    "id": "analects-308",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 308
+  },
+  {
+    "id": "analects-309",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 309
+  },
+  {
+    "id": "analects-310",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 310
+  },
+  {
+    "id": "analects-311",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 311
+  },
+  {
+    "id": "analects-312",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 312
+  },
+  {
+    "id": "analects-313",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 313
+  },
+  {
+    "id": "analects-314",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 314
+  },
+  {
+    "id": "analects-315",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 315
+  },
+  {
+    "id": "analects-316",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 316
+  },
+  {
+    "id": "analects-317",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 317
+  },
+  {
+    "id": "analects-318",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 318
+  },
+  {
+    "id": "analects-319",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 319
+  },
+  {
+    "id": "analects-320",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 320
+  },
+  {
+    "id": "analects-321",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 321
+  },
+  {
+    "id": "analects-322",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 322
+  },
+  {
+    "id": "analects-323",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 323
+  },
+  {
+    "id": "analects-324",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 324
+  },
+  {
+    "id": "analects-325",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 325
+  },
+  {
+    "id": "analects-326",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 326
+  },
+  {
+    "id": "analects-327",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 327
+  },
+  {
+    "id": "analects-328",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 328
+  },
+  {
+    "id": "analects-329",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 329
+  },
+  {
+    "id": "analects-330",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 330
+  },
+  {
+    "id": "analects-331",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 331
+  },
+  {
+    "id": "analects-332",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 332
+  },
+  {
+    "id": "analects-333",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 333
+  },
+  {
+    "id": "analects-334",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 334
+  },
+  {
+    "id": "analects-335",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 335
+  },
+  {
+    "id": "analects-336",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 336
+  },
+  {
+    "id": "analects-337",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 337
+  },
+  {
+    "id": "analects-338",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 338
+  },
+  {
+    "id": "analects-339",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 339
+  },
+  {
+    "id": "analects-340",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 340
+  },
+  {
+    "id": "analects-341",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 341
+  },
+  {
+    "id": "analects-342",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 342
+  },
+  {
+    "id": "analects-343",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 343
+  },
+  {
+    "id": "analects-344",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 344
+  },
+  {
+    "id": "analects-345",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 345
+  },
+  {
+    "id": "analects-346",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 346
+  },
+  {
+    "id": "analects-347",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 347
+  },
+  {
+    "id": "analects-348",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 348
+  },
+  {
+    "id": "analects-349",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 349
+  },
+  {
+    "id": "analects-350",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 350
+  },
+  {
+    "id": "analects-351",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 351
+  },
+  {
+    "id": "analects-352",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 352
+  },
+  {
+    "id": "analects-353",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 353
+  },
+  {
+    "id": "analects-354",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 354
+  },
+  {
+    "id": "analects-355",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 355
+  },
+  {
+    "id": "analects-356",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 356
+  },
+  {
+    "id": "analects-357",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 357
+  },
+  {
+    "id": "analects-358",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 358
+  },
+  {
+    "id": "analects-359",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 359
+  },
+  {
+    "id": "analects-360",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 360
+  },
+  {
+    "id": "analects-361",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+    "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):1",
+    "dayOfYear": 361
+  },
+  {
+    "id": "analects-362",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+    "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+    "reference": "The Analects — Xue Er (On Learning & Integrity):2",
+    "dayOfYear": 362
+  },
+  {
+    "id": "analects-363",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+    "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):1",
+    "dayOfYear": 363
+  },
+  {
+    "id": "analects-364",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+    "original": "子曰：「學而不思則罔，思而不學則殆。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):2",
+    "dayOfYear": 364
+  },
+  {
+    "id": "analects-365",
+    "book": "analects",
+    "tradition": "Confucianism",
+    "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+    "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+    "reference": "The Analects — Wei Zheng (On Governance & Virtue):3",
+    "dayOfYear": 365
+  }
+]

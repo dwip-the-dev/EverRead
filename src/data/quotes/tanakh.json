@@ -1,0 +1,3287 @@
+[
+  {
+    "id": "tanakh-001",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 1
+  },
+  {
+    "id": "tanakh-002",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 2
+  },
+  {
+    "id": "tanakh-003",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 3
+  },
+  {
+    "id": "tanakh-004",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 4
+  },
+  {
+    "id": "tanakh-005",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 5
+  },
+  {
+    "id": "tanakh-006",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 6
+  },
+  {
+    "id": "tanakh-007",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 7
+  },
+  {
+    "id": "tanakh-008",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 8
+  },
+  {
+    "id": "tanakh-009",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 9
+  },
+  {
+    "id": "tanakh-010",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 10
+  },
+  {
+    "id": "tanakh-011",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 11
+  },
+  {
+    "id": "tanakh-012",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 12
+  },
+  {
+    "id": "tanakh-013",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 13
+  },
+  {
+    "id": "tanakh-014",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 14
+  },
+  {
+    "id": "tanakh-015",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 15
+  },
+  {
+    "id": "tanakh-016",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 16
+  },
+  {
+    "id": "tanakh-017",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 17
+  },
+  {
+    "id": "tanakh-018",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 18
+  },
+  {
+    "id": "tanakh-019",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 19
+  },
+  {
+    "id": "tanakh-020",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 20
+  },
+  {
+    "id": "tanakh-021",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 21
+  },
+  {
+    "id": "tanakh-022",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 22
+  },
+  {
+    "id": "tanakh-023",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 23
+  },
+  {
+    "id": "tanakh-024",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 24
+  },
+  {
+    "id": "tanakh-025",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 25
+  },
+  {
+    "id": "tanakh-026",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 26
+  },
+  {
+    "id": "tanakh-027",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 27
+  },
+  {
+    "id": "tanakh-028",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 28
+  },
+  {
+    "id": "tanakh-029",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 29
+  },
+  {
+    "id": "tanakh-030",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 30
+  },
+  {
+    "id": "tanakh-031",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 31
+  },
+  {
+    "id": "tanakh-032",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 32
+  },
+  {
+    "id": "tanakh-033",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 33
+  },
+  {
+    "id": "tanakh-034",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 34
+  },
+  {
+    "id": "tanakh-035",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 35
+  },
+  {
+    "id": "tanakh-036",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 36
+  },
+  {
+    "id": "tanakh-037",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 37
+  },
+  {
+    "id": "tanakh-038",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 38
+  },
+  {
+    "id": "tanakh-039",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 39
+  },
+  {
+    "id": "tanakh-040",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 40
+  },
+  {
+    "id": "tanakh-041",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 41
+  },
+  {
+    "id": "tanakh-042",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 42
+  },
+  {
+    "id": "tanakh-043",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 43
+  },
+  {
+    "id": "tanakh-044",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 44
+  },
+  {
+    "id": "tanakh-045",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 45
+  },
+  {
+    "id": "tanakh-046",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 46
+  },
+  {
+    "id": "tanakh-047",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 47
+  },
+  {
+    "id": "tanakh-048",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 48
+  },
+  {
+    "id": "tanakh-049",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 49
+  },
+  {
+    "id": "tanakh-050",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 50
+  },
+  {
+    "id": "tanakh-051",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 51
+  },
+  {
+    "id": "tanakh-052",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 52
+  },
+  {
+    "id": "tanakh-053",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 53
+  },
+  {
+    "id": "tanakh-054",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 54
+  },
+  {
+    "id": "tanakh-055",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 55
+  },
+  {
+    "id": "tanakh-056",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 56
+  },
+  {
+    "id": "tanakh-057",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 57
+  },
+  {
+    "id": "tanakh-058",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 58
+  },
+  {
+    "id": "tanakh-059",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 59
+  },
+  {
+    "id": "tanakh-060",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 60
+  },
+  {
+    "id": "tanakh-061",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 61
+  },
+  {
+    "id": "tanakh-062",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 62
+  },
+  {
+    "id": "tanakh-063",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 63
+  },
+  {
+    "id": "tanakh-064",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 64
+  },
+  {
+    "id": "tanakh-065",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 65
+  },
+  {
+    "id": "tanakh-066",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 66
+  },
+  {
+    "id": "tanakh-067",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 67
+  },
+  {
+    "id": "tanakh-068",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 68
+  },
+  {
+    "id": "tanakh-069",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 69
+  },
+  {
+    "id": "tanakh-070",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 70
+  },
+  {
+    "id": "tanakh-071",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 71
+  },
+  {
+    "id": "tanakh-072",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 72
+  },
+  {
+    "id": "tanakh-073",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 73
+  },
+  {
+    "id": "tanakh-074",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 74
+  },
+  {
+    "id": "tanakh-075",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 75
+  },
+  {
+    "id": "tanakh-076",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 76
+  },
+  {
+    "id": "tanakh-077",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 77
+  },
+  {
+    "id": "tanakh-078",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 78
+  },
+  {
+    "id": "tanakh-079",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 79
+  },
+  {
+    "id": "tanakh-080",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 80
+  },
+  {
+    "id": "tanakh-081",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 81
+  },
+  {
+    "id": "tanakh-082",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 82
+  },
+  {
+    "id": "tanakh-083",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 83
+  },
+  {
+    "id": "tanakh-084",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 84
+  },
+  {
+    "id": "tanakh-085",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 85
+  },
+  {
+    "id": "tanakh-086",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 86
+  },
+  {
+    "id": "tanakh-087",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 87
+  },
+  {
+    "id": "tanakh-088",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 88
+  },
+  {
+    "id": "tanakh-089",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 89
+  },
+  {
+    "id": "tanakh-090",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 90
+  },
+  {
+    "id": "tanakh-091",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 91
+  },
+  {
+    "id": "tanakh-092",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 92
+  },
+  {
+    "id": "tanakh-093",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 93
+  },
+  {
+    "id": "tanakh-094",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 94
+  },
+  {
+    "id": "tanakh-095",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 95
+  },
+  {
+    "id": "tanakh-096",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 96
+  },
+  {
+    "id": "tanakh-097",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 97
+  },
+  {
+    "id": "tanakh-098",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 98
+  },
+  {
+    "id": "tanakh-099",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 99
+  },
+  {
+    "id": "tanakh-100",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 100
+  },
+  {
+    "id": "tanakh-101",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 101
+  },
+  {
+    "id": "tanakh-102",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 102
+  },
+  {
+    "id": "tanakh-103",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 103
+  },
+  {
+    "id": "tanakh-104",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 104
+  },
+  {
+    "id": "tanakh-105",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 105
+  },
+  {
+    "id": "tanakh-106",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 106
+  },
+  {
+    "id": "tanakh-107",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 107
+  },
+  {
+    "id": "tanakh-108",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 108
+  },
+  {
+    "id": "tanakh-109",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 109
+  },
+  {
+    "id": "tanakh-110",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 110
+  },
+  {
+    "id": "tanakh-111",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 111
+  },
+  {
+    "id": "tanakh-112",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 112
+  },
+  {
+    "id": "tanakh-113",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 113
+  },
+  {
+    "id": "tanakh-114",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 114
+  },
+  {
+    "id": "tanakh-115",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 115
+  },
+  {
+    "id": "tanakh-116",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 116
+  },
+  {
+    "id": "tanakh-117",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 117
+  },
+  {
+    "id": "tanakh-118",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 118
+  },
+  {
+    "id": "tanakh-119",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 119
+  },
+  {
+    "id": "tanakh-120",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 120
+  },
+  {
+    "id": "tanakh-121",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 121
+  },
+  {
+    "id": "tanakh-122",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 122
+  },
+  {
+    "id": "tanakh-123",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 123
+  },
+  {
+    "id": "tanakh-124",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 124
+  },
+  {
+    "id": "tanakh-125",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 125
+  },
+  {
+    "id": "tanakh-126",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 126
+  },
+  {
+    "id": "tanakh-127",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 127
+  },
+  {
+    "id": "tanakh-128",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 128
+  },
+  {
+    "id": "tanakh-129",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 129
+  },
+  {
+    "id": "tanakh-130",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 130
+  },
+  {
+    "id": "tanakh-131",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 131
+  },
+  {
+    "id": "tanakh-132",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 132
+  },
+  {
+    "id": "tanakh-133",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 133
+  },
+  {
+    "id": "tanakh-134",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 134
+  },
+  {
+    "id": "tanakh-135",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 135
+  },
+  {
+    "id": "tanakh-136",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 136
+  },
+  {
+    "id": "tanakh-137",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 137
+  },
+  {
+    "id": "tanakh-138",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 138
+  },
+  {
+    "id": "tanakh-139",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 139
+  },
+  {
+    "id": "tanakh-140",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 140
+  },
+  {
+    "id": "tanakh-141",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 141
+  },
+  {
+    "id": "tanakh-142",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 142
+  },
+  {
+    "id": "tanakh-143",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 143
+  },
+  {
+    "id": "tanakh-144",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 144
+  },
+  {
+    "id": "tanakh-145",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 145
+  },
+  {
+    "id": "tanakh-146",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 146
+  },
+  {
+    "id": "tanakh-147",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 147
+  },
+  {
+    "id": "tanakh-148",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 148
+  },
+  {
+    "id": "tanakh-149",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 149
+  },
+  {
+    "id": "tanakh-150",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 150
+  },
+  {
+    "id": "tanakh-151",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 151
+  },
+  {
+    "id": "tanakh-152",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 152
+  },
+  {
+    "id": "tanakh-153",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 153
+  },
+  {
+    "id": "tanakh-154",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 154
+  },
+  {
+    "id": "tanakh-155",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 155
+  },
+  {
+    "id": "tanakh-156",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 156
+  },
+  {
+    "id": "tanakh-157",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 157
+  },
+  {
+    "id": "tanakh-158",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 158
+  },
+  {
+    "id": "tanakh-159",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 159
+  },
+  {
+    "id": "tanakh-160",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 160
+  },
+  {
+    "id": "tanakh-161",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 161
+  },
+  {
+    "id": "tanakh-162",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 162
+  },
+  {
+    "id": "tanakh-163",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 163
+  },
+  {
+    "id": "tanakh-164",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 164
+  },
+  {
+    "id": "tanakh-165",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 165
+  },
+  {
+    "id": "tanakh-166",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 166
+  },
+  {
+    "id": "tanakh-167",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 167
+  },
+  {
+    "id": "tanakh-168",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 168
+  },
+  {
+    "id": "tanakh-169",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 169
+  },
+  {
+    "id": "tanakh-170",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 170
+  },
+  {
+    "id": "tanakh-171",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 171
+  },
+  {
+    "id": "tanakh-172",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 172
+  },
+  {
+    "id": "tanakh-173",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 173
+  },
+  {
+    "id": "tanakh-174",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 174
+  },
+  {
+    "id": "tanakh-175",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 175
+  },
+  {
+    "id": "tanakh-176",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 176
+  },
+  {
+    "id": "tanakh-177",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 177
+  },
+  {
+    "id": "tanakh-178",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 178
+  },
+  {
+    "id": "tanakh-179",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 179
+  },
+  {
+    "id": "tanakh-180",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 180
+  },
+  {
+    "id": "tanakh-181",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 181
+  },
+  {
+    "id": "tanakh-182",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 182
+  },
+  {
+    "id": "tanakh-183",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 183
+  },
+  {
+    "id": "tanakh-184",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 184
+  },
+  {
+    "id": "tanakh-185",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 185
+  },
+  {
+    "id": "tanakh-186",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 186
+  },
+  {
+    "id": "tanakh-187",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 187
+  },
+  {
+    "id": "tanakh-188",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 188
+  },
+  {
+    "id": "tanakh-189",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 189
+  },
+  {
+    "id": "tanakh-190",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 190
+  },
+  {
+    "id": "tanakh-191",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 191
+  },
+  {
+    "id": "tanakh-192",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 192
+  },
+  {
+    "id": "tanakh-193",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 193
+  },
+  {
+    "id": "tanakh-194",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 194
+  },
+  {
+    "id": "tanakh-195",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 195
+  },
+  {
+    "id": "tanakh-196",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 196
+  },
+  {
+    "id": "tanakh-197",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 197
+  },
+  {
+    "id": "tanakh-198",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 198
+  },
+  {
+    "id": "tanakh-199",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 199
+  },
+  {
+    "id": "tanakh-200",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 200
+  },
+  {
+    "id": "tanakh-201",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 201
+  },
+  {
+    "id": "tanakh-202",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 202
+  },
+  {
+    "id": "tanakh-203",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 203
+  },
+  {
+    "id": "tanakh-204",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 204
+  },
+  {
+    "id": "tanakh-205",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 205
+  },
+  {
+    "id": "tanakh-206",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 206
+  },
+  {
+    "id": "tanakh-207",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 207
+  },
+  {
+    "id": "tanakh-208",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 208
+  },
+  {
+    "id": "tanakh-209",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 209
+  },
+  {
+    "id": "tanakh-210",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 210
+  },
+  {
+    "id": "tanakh-211",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 211
+  },
+  {
+    "id": "tanakh-212",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 212
+  },
+  {
+    "id": "tanakh-213",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 213
+  },
+  {
+    "id": "tanakh-214",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 214
+  },
+  {
+    "id": "tanakh-215",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 215
+  },
+  {
+    "id": "tanakh-216",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 216
+  },
+  {
+    "id": "tanakh-217",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 217
+  },
+  {
+    "id": "tanakh-218",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 218
+  },
+  {
+    "id": "tanakh-219",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 219
+  },
+  {
+    "id": "tanakh-220",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 220
+  },
+  {
+    "id": "tanakh-221",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 221
+  },
+  {
+    "id": "tanakh-222",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 222
+  },
+  {
+    "id": "tanakh-223",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 223
+  },
+  {
+    "id": "tanakh-224",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 224
+  },
+  {
+    "id": "tanakh-225",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 225
+  },
+  {
+    "id": "tanakh-226",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 226
+  },
+  {
+    "id": "tanakh-227",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 227
+  },
+  {
+    "id": "tanakh-228",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 228
+  },
+  {
+    "id": "tanakh-229",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 229
+  },
+  {
+    "id": "tanakh-230",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 230
+  },
+  {
+    "id": "tanakh-231",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 231
+  },
+  {
+    "id": "tanakh-232",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 232
+  },
+  {
+    "id": "tanakh-233",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 233
+  },
+  {
+    "id": "tanakh-234",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 234
+  },
+  {
+    "id": "tanakh-235",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 235
+  },
+  {
+    "id": "tanakh-236",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 236
+  },
+  {
+    "id": "tanakh-237",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 237
+  },
+  {
+    "id": "tanakh-238",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 238
+  },
+  {
+    "id": "tanakh-239",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 239
+  },
+  {
+    "id": "tanakh-240",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 240
+  },
+  {
+    "id": "tanakh-241",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 241
+  },
+  {
+    "id": "tanakh-242",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 242
+  },
+  {
+    "id": "tanakh-243",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 243
+  },
+  {
+    "id": "tanakh-244",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 244
+  },
+  {
+    "id": "tanakh-245",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 245
+  },
+  {
+    "id": "tanakh-246",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 246
+  },
+  {
+    "id": "tanakh-247",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 247
+  },
+  {
+    "id": "tanakh-248",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 248
+  },
+  {
+    "id": "tanakh-249",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 249
+  },
+  {
+    "id": "tanakh-250",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 250
+  },
+  {
+    "id": "tanakh-251",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 251
+  },
+  {
+    "id": "tanakh-252",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 252
+  },
+  {
+    "id": "tanakh-253",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 253
+  },
+  {
+    "id": "tanakh-254",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 254
+  },
+  {
+    "id": "tanakh-255",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 255
+  },
+  {
+    "id": "tanakh-256",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 256
+  },
+  {
+    "id": "tanakh-257",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 257
+  },
+  {
+    "id": "tanakh-258",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 258
+  },
+  {
+    "id": "tanakh-259",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 259
+  },
+  {
+    "id": "tanakh-260",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 260
+  },
+  {
+    "id": "tanakh-261",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 261
+  },
+  {
+    "id": "tanakh-262",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 262
+  },
+  {
+    "id": "tanakh-263",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 263
+  },
+  {
+    "id": "tanakh-264",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 264
+  },
+  {
+    "id": "tanakh-265",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 265
+  },
+  {
+    "id": "tanakh-266",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 266
+  },
+  {
+    "id": "tanakh-267",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 267
+  },
+  {
+    "id": "tanakh-268",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 268
+  },
+  {
+    "id": "tanakh-269",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 269
+  },
+  {
+    "id": "tanakh-270",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 270
+  },
+  {
+    "id": "tanakh-271",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 271
+  },
+  {
+    "id": "tanakh-272",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 272
+  },
+  {
+    "id": "tanakh-273",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 273
+  },
+  {
+    "id": "tanakh-274",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 274
+  },
+  {
+    "id": "tanakh-275",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 275
+  },
+  {
+    "id": "tanakh-276",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 276
+  },
+  {
+    "id": "tanakh-277",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 277
+  },
+  {
+    "id": "tanakh-278",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 278
+  },
+  {
+    "id": "tanakh-279",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 279
+  },
+  {
+    "id": "tanakh-280",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 280
+  },
+  {
+    "id": "tanakh-281",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 281
+  },
+  {
+    "id": "tanakh-282",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 282
+  },
+  {
+    "id": "tanakh-283",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 283
+  },
+  {
+    "id": "tanakh-284",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 284
+  },
+  {
+    "id": "tanakh-285",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 285
+  },
+  {
+    "id": "tanakh-286",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 286
+  },
+  {
+    "id": "tanakh-287",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 287
+  },
+  {
+    "id": "tanakh-288",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 288
+  },
+  {
+    "id": "tanakh-289",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 289
+  },
+  {
+    "id": "tanakh-290",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 290
+  },
+  {
+    "id": "tanakh-291",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 291
+  },
+  {
+    "id": "tanakh-292",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 292
+  },
+  {
+    "id": "tanakh-293",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 293
+  },
+  {
+    "id": "tanakh-294",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 294
+  },
+  {
+    "id": "tanakh-295",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 295
+  },
+  {
+    "id": "tanakh-296",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 296
+  },
+  {
+    "id": "tanakh-297",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 297
+  },
+  {
+    "id": "tanakh-298",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 298
+  },
+  {
+    "id": "tanakh-299",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 299
+  },
+  {
+    "id": "tanakh-300",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 300
+  },
+  {
+    "id": "tanakh-301",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 301
+  },
+  {
+    "id": "tanakh-302",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 302
+  },
+  {
+    "id": "tanakh-303",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 303
+  },
+  {
+    "id": "tanakh-304",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 304
+  },
+  {
+    "id": "tanakh-305",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 305
+  },
+  {
+    "id": "tanakh-306",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 306
+  },
+  {
+    "id": "tanakh-307",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 307
+  },
+  {
+    "id": "tanakh-308",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 308
+  },
+  {
+    "id": "tanakh-309",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 309
+  },
+  {
+    "id": "tanakh-310",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 310
+  },
+  {
+    "id": "tanakh-311",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 311
+  },
+  {
+    "id": "tanakh-312",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 312
+  },
+  {
+    "id": "tanakh-313",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 313
+  },
+  {
+    "id": "tanakh-314",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 314
+  },
+  {
+    "id": "tanakh-315",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 315
+  },
+  {
+    "id": "tanakh-316",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 316
+  },
+  {
+    "id": "tanakh-317",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 317
+  },
+  {
+    "id": "tanakh-318",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 318
+  },
+  {
+    "id": "tanakh-319",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 319
+  },
+  {
+    "id": "tanakh-320",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 320
+  },
+  {
+    "id": "tanakh-321",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 321
+  },
+  {
+    "id": "tanakh-322",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 322
+  },
+  {
+    "id": "tanakh-323",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 323
+  },
+  {
+    "id": "tanakh-324",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 324
+  },
+  {
+    "id": "tanakh-325",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 325
+  },
+  {
+    "id": "tanakh-326",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 326
+  },
+  {
+    "id": "tanakh-327",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 327
+  },
+  {
+    "id": "tanakh-328",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 328
+  },
+  {
+    "id": "tanakh-329",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 329
+  },
+  {
+    "id": "tanakh-330",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 330
+  },
+  {
+    "id": "tanakh-331",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 331
+  },
+  {
+    "id": "tanakh-332",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 332
+  },
+  {
+    "id": "tanakh-333",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 333
+  },
+  {
+    "id": "tanakh-334",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 334
+  },
+  {
+    "id": "tanakh-335",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 335
+  },
+  {
+    "id": "tanakh-336",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 336
+  },
+  {
+    "id": "tanakh-337",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 337
+  },
+  {
+    "id": "tanakh-338",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 338
+  },
+  {
+    "id": "tanakh-339",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 339
+  },
+  {
+    "id": "tanakh-340",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 340
+  },
+  {
+    "id": "tanakh-341",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 341
+  },
+  {
+    "id": "tanakh-342",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 342
+  },
+  {
+    "id": "tanakh-343",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 343
+  },
+  {
+    "id": "tanakh-344",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 344
+  },
+  {
+    "id": "tanakh-345",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 345
+  },
+  {
+    "id": "tanakh-346",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 346
+  },
+  {
+    "id": "tanakh-347",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 347
+  },
+  {
+    "id": "tanakh-348",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 348
+  },
+  {
+    "id": "tanakh-349",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 349
+  },
+  {
+    "id": "tanakh-350",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 350
+  },
+  {
+    "id": "tanakh-351",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 351
+  },
+  {
+    "id": "tanakh-352",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 352
+  },
+  {
+    "id": "tanakh-353",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 353
+  },
+  {
+    "id": "tanakh-354",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 354
+  },
+  {
+    "id": "tanakh-355",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 355
+  },
+  {
+    "id": "tanakh-356",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 356
+  },
+  {
+    "id": "tanakh-357",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 357
+  },
+  {
+    "id": "tanakh-358",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+    "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):2",
+    "dayOfYear": 358
+  },
+  {
+    "id": "tanakh-359",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+    "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):3",
+    "dayOfYear": 359
+  },
+  {
+    "id": "tanakh-360",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+    "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):4",
+    "dayOfYear": 360
+  },
+  {
+    "id": "tanakh-361",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+    "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:1",
+    "dayOfYear": 361
+  },
+  {
+    "id": "tanakh-362",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+    "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:2",
+    "dayOfYear": 362
+  },
+  {
+    "id": "tanakh-363",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "You shall love your neighbor as yourself: I am the Lord.",
+    "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:3",
+    "dayOfYear": 363
+  },
+  {
+    "id": "tanakh-364",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+    "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+    "reference": "The Tanakh & Pirkei Avot — The Shema & The Commandments:4",
+    "dayOfYear": 364
+  },
+  {
+    "id": "tanakh-365",
+    "book": "tanakh",
+    "tradition": "Judaism",
+    "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+    "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+    "reference": "The Tanakh & Pirkei Avot — Pirkei Avot (Ethics of the Fathers):1",
+    "dayOfYear": 365
+  }
+]

@@ -1,1142 +1,147 @@
-# Daily Scripture Path
+# EverRead 📖✨
+> **A quiet daily reading companion.**
 
-Yooo, that actually has a really clean product loop. Basically a religious reading app with the simplicity of Duolingo: pick your scripture → daily reading → track progress → come back tomorrow.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React 19](https://img.shields.io/badge/React-19-blue.svg)](https://react.dev/)
+[![TanStack Start](https://img.shields.io/badge/TanStack-Start-ff4154.svg)](https://tanstack.com/start)
+[![Tailwind CSS v4](https://img.shields.io/badge/Tailwind-CSS_v4-38bdf8.svg)](https://tailwindcss.com/)
+[![100% Offline](https://img.shields.io/badge/Offline-100%25_Client_Side-success.svg)](#privacy--offline-architecture)
 
+**EverRead** brings the habit-forming clarity of modern apps to sacred scriptures and philosophical wisdom. Pick your scripture from world traditions, follow a calm daily pace, track your streak, and return daily to stillness.
 
-
-I’d structure it like this:
-
-
-
-🏠 1. First launch — choose your book
-
-
-
-Big visual cards:
-
-
-
-📖 Bible — Christianity
-
-
-
-☪️ Quran — Islam
-
-
-
-🕉️ Bhagavad Gita — Hinduism
-
-
-
-☸️ Dhammapada — Buddhism
-
-
-
-✡️ Torah — Judaism
-
-
-
-etc.
-
-
-
-
-
-Each card:
-
-
-
-Book cover/image
-
-
-
-Book name
-
-
-
-Religion/tradition
-
-
-
-Maybe number of chapters
-
-
-
-
-
-Once selected:
-
-
-
-localStorage.setItem("selectedBook", "bible")
-
-
-
-Then you never show onboarding again unless they choose Change Book in settings.
-
-
-
-📚 2. Home screen
-
-
-
-Something like:
-
-
-
-> Good morning 👋
-
-Your reading for today
-
-
-
-
-
-
-
-Then:
-
-
-
-Day 17
-
-
-
-Genesis 17
-
-
-
-> Today's passage
-
-Genesis 17:1–14
-
-
-
-
-
-
-
-[ Start Reading → ]
-
-
-
-And underneath:
-
-
-
-Your progress
-
-
-
-████████░░ 78%
-
-
-
-17 / 50 chapters
-
-
-
-
+No accounts, no ads, no trackers, and zero backend required. Everything runs 100% offline on your device.
 
 ---
 
+## 🌟 Sacred Scriptures Across World Religions (Bundled Offline)
 
-
-📖 3. Reading system
-
-
-
-Don't necessarily make one chapter = one day.
-
-
-
-Instead, your data could define reading plans:
-
-
-
-{
-
-  book: "bible",
-
-  plan: "90-day",
-
-  days: [
-
-    {
-
-      day: 1,
-
-      readings: [
-
-        { chapter: 1, verses: "1-31" },
-
-        { chapter: 2, verses: "1-25" }
-
-      ]
-
-    }
-
-  ]
-
-}
-
-
-
-That gives you WAY more flexibility later.
-
-
-
-You could have:
-
-
-
-⚡ 30-day plan
-
-
-
-📖 90-day plan
-
-
-
-🌱 180-day plan
-
-
-
-🐢 1-year plan
-
-
-
-Custom reading
-
-
-
-
-
-And the user's progress remains local.
-
-
-
-
+| Tradition | Sacred Scripture | Symbol | Description & Translations |
+| :--- | :--- | :---: | :--- |
+| **Christianity** | The Holy Bible | ✝ | Old & New Testaments (Genesis to Revelation, 534 chapters) |
+| **Islam** | The Holy Quran | ☾ | All 114 Surahs with Arabic script, transliteration & English translation |
+| **Hinduism** | Bhagavad Gita | ॐ | Complete 18 chapters & 701 verses with Sanskrit Devanagari & English |
+| **Hinduism** | The Upanishads | 🕉 | Principal Upanishads (Isha, Katha, Mundaka, Mandukya) on Brahman & Self |
+| **Hinduism** | The Vedas | 🔥 | Rigveda Sacred Hymns (Creation Hymn, Gayatri, Cosmic Peace) |
+| **Buddhism** | The Dhammapada | ☸ | Tripitaka (Pali Canon) verses of the Buddha with Pali & English |
+| **Judaism** | The Tanakh & Pirkei Avot | ✡ | Torah, Shema, Prophets, and Mishnah Ethics of the Fathers |
+| **Taoism** | Tao Te Ching | ☯ | Lao Tzu's classic on the Way, Stillness, and Wu Wei (Effortless Action) |
+| **Confucianism** | The Analects | 📜 | The sayings of Confucius (Lunyu) on Reciprocity and Virtue |
+| **Sikhism** | Sri Guru Granth Sahib | ☬ | Japji Sahib and sacred hymns of Guru Nanak Dev Ji with Gurmukhi |
+| **Jainism** | The Jain Agamas | 🪷 | Tattvartha Sutra on Ahimsa (Universal Non-Violence) & the Three Jewels |
+| **Shintoism** | The Kojiki & Sacred Norito | ⛩ | Ancient Japanese records of the Kami and purity of heart (*Akaki kiyoki kokoro*) |
+| **Zoroastrianism** | The Avesta & Gathas | 🪔 | The 17 Gathas of Zarathustra on the Triple Path: Good Thoughts, Words & Deeds |
+| **Baháʼí Faith** | The Hidden Words | ☀️ | The inner essence of divine guidance revealed by Bahá'u'lláh |
 
 ---
 
+## ✨ Features & Micro-Animations
 
+### 🕯️ 1. Serene Reader with Fluid Animations
+- **Smooth Page Transitions**: Delightful entrance and exit animations (`animate-fade-in-up`).
+- **Pulsing Streak Flame**: Flame breathing animation reflecting your active reading streak.
+- **Floating Sacred Symbols**: Gentle floating motion for sacred symbols in banners and cards.
+- **Fluid Font Scaler**: Small, Medium, Large typography scaling with editorial *Fraunces* serif.
+- **Bilingual & Multi-Script Controls**: Toggle original Hebrew, Arabic, Sanskrit, Greek, Pali, Gurmukhi, or Chinese scripts and Roman transliterations with automatic RTL alignment.
+- **Tap-to-Copy Feedback**: Tap any verse to copy formatted citations with copy wave feedback and toasts.
+- **Continue Where You Left Off**: Remembers exact chapter, verse, and scroll percentage when you resume reading.
 
-🌅 4. Daily quote
+### 🗓️ 2. Structured, Deterministic Reading Plans
+- **Bhagavad Gita**:
+  - `9-Day Intensive`: Exactly **two full chapters a day** (Day 1: Ch 1 & 2, Day 2: Ch 3 & 4, ..., Day 9: Ch 17 & 18).
+  - `18 Days`: Exactly **one full chapter a day**.
+  - `40-Day Gentle`: Bite-sized handful of verses daily (~17-18 verses).
+- **The Holy Quran**:
+  - `30-Day Pace`: One Juz equivalent per day (ideal for monthly rhythms).
+  - `60-Day Steady`: Half-Juz daily portions.
+  - `120-Day Slow`: Reflective quarter-Juz portions.
+- **The Holy Bible**:
+  - `90-Day Journey`: Brisk pace (~6 chapters a day).
+  - `180-Day Steady`: Steady pace (~3 chapters a day).
+  - `One Year (365-Day)`: Peaceful unhurried daily reading (~1-2 chapters a day).
+- **World Traditions (Upanishads, Dhammapada, Tao Te Ching, Tanakh, Granth, etc.)**:
+  - `7-Day Foundation`, `21-Day Habit`, and `30-Day Master` schedules.
 
+### 🌅 3. Daily Reflections & Quotes Archive
+- Curated daily spiritual quotes associated with your active scripture.
+- Offline calculation based on the day of the year (`quotes[dayOfYear % length]`) — zero network requests.
+- Searchable reflection history (past 30 days), bookmarking favorites, and native web sharing.
 
-
-This could be one of the coolest parts.
-
-
-
-Every day:
-
-
-
-> Today's Reflection
-
-
-
-
-
-
-
-Then a quote associated with the selected religion/book.
-
-
-
-Important distinction: store the actual quote text in your dataset, rather than generating it dynamically with AI. That prevents weird/misquoted religious text.
-
-
-
-Your data could look like:
-
-
-
-{
-
-  id: "bible-001",
-
-  tradition: "Christianity",
-
-  text: "...",
-
-  reference: "John 3:16"
-
-}
-
-
-
-Then:
-
-
-
-const quote = quotes[dayOfYear % quotes.length]
-
-
-
-So it works completely offline and requires zero API calls.
-
-
-
-
+### 📊 4. Habit Streaks, 30-Day Heatmap & Profile Dashboard
+- Daily reading streaks (current streak, longest streak, active days).
+- Interactive 30-day activity heatmap tracking active reading days with hover feedback.
+- Scripture & reading plan switcher with category filters (Eastern Traditions, Abrahamic & Ancient).
+- 3 soothing reading palettes: **Parchment Light**, **Obsidian Dark**, and **Warm Sepia**.
+- Full JSON backup export & restore.
 
 ---
 
+## 💾 Privacy & Offline Storage Model
 
+EverRead keeps your entire reading journey strictly client-side:
 
-💾 5. LocalStorage architecture
-
-
-
-You could keep the whole MVP ridiculously simple:
-
-
-
-{
-
-  selectedBook: "bible",
-
-  readingPlan: "90-day",
-
-
-
+```ts
+export type AppState = {
+  selectedBook: BookId | null;
+  readingPlan: string | null;
   progress: {
-
-    completedDays: [1, 2, 3, 4],
-
-    currentDay: 5
-
-  },
-
-
-
+    completedDays: number[];
+    completedChapters: string[];
+    currentDay: number;
+  };
+  lastPosition: {
+    day: number;
+    section: string;
+    chapter: number;
+    verse: number;
+    percent: number;
+  } | null;
   settings: {
-
-    dailyReminder: true,
-
-    fontSize: "medium"
-
-  },
-
-
-
+    fontSize: "small" | "medium" | "large";
+    showOriginal: boolean;
+    showTransliteration: boolean;
+    theme: "light" | "dark" | "sepia";
+  };
   streak: {
-
-    current: 4,
-
-    longest: 12,
-
-    lastRead: "2026-08-27"
-
-  }
-
-}
-
-
-
-One important thing: don't only store currentDay.
-
-
-
-Store completed reading IDs/days too. That way if someone goes back and rereads something, skips ahead, or changes plans, you aren't fighting your own data model later.
-
-
-
-
-
----
-
-
-
-🔥 6. The app could have 4 main tabs
-
-
-
-Today
-
-Today's reading + quote + continue button.
-
-
-
-Book
-
-All chapters with progress:
-
-
-
-Genesis
-
-────────────────
-
-✓ Chapter 1
-
-✓ Chapter 2
-
-✓ Chapter 3
-
-→ Chapter 4
-
-○ Chapter 5
-
-○ Chapter 6
-
-...
-
-
-
-Quotes
-
-Previous daily quotes / saved favorites.
-
-
-
-Profile
-
-Reading statistics, streak, selected book, reading plan, settings.
-
-
-
-
-
----
-
-
-
-🧠 One feature I'd DEFINITELY add
-
-
-
-A "Continue where I left off" system.
-
-
-
-Imagine the user closes the app halfway through Chapter 4.
-
-
-
-Next time:
-
-
-
-> Welcome back
-
-
-
-Continue Genesis 4
-
-63% complete
-
-
-
-Continue reading →
-
-
-
-
-
-
-
-That makes it feel like an actual app rather than a static scripture website.
-
-
-
-
-
----
-
-
-
-🛠️ And technically...
-
-
-
-For your current idea, you don't need a backend at all.
-
-
-
-I'd make the architecture:
-
-
-
-src/
-
-├── data/
-
-│   ├── books/
-
-│   │   ├── bible.js
-
-│   │   ├── quran.js
-
-│   │   ├── gita.js
-
-│   │   └── ...
-
-│   │
-
-│   ├── quotes/
-
-│   │   ├── christianity.js
-
-│   │   ├── islam.js
-
-│   │   └── ...
-
-│
-
-├── components/
-
-│   ├── BookCard
-
-│   ├── ReadingCard
-
-│   ├── ChapterList
-
-│   ├── ProgressBar
-
-│   └── QuoteCard
-
-│
-
-├── pages/
-
-│   ├── Onboarding
-
-│   ├── Home
-
-│   ├── Book
-
-│   ├── Quotes
-
-│   └── Settings
-
-│
-
-├── lib/
-
-│   ├── storage.js
-
-│   ├── progress.js
-
-│   └── dates.js
-
-│
-
-└── App.jsx
-
-
-
-Then later, when you inevitably go "fuck it, I'm adding a backend" 😂, you can move the books/quotes/reading plans to an API without rewriting the entire frontend.
-
-
-
-And honestly, I'd keep the religion selection neutral and respectful. Don't make it feel like the app is trying to tell someone which religion is "correct"; it's a reading/tracking tool, and the user chooses what they want to study.
-
-
-
-This could actually look really polished with a calm editorial UI—large scripture typography, subtle book artwork, progress rings, daily card, etc. Not another generic Bootstrap religious website lol. Yeah — if you want this to be actually offline and bundled into the webapp, I’d collect the texts first, normalize them into one schema, and then build your reading-plan logic on top.
-
-
-
-The key is copyright/licensing. Don't just scrape random scripture websites and bundle their translations. Use public-domain texts or datasets whose license explicitly permits redistribution.
-
-
-
-📖 Bible
-
-
-
-For English, World English Bible (WEB) is probably the easiest starting point. It is explicitly public domain. 
-
-
-
-There are also machine-readable JSON datasets already structured by book/chapter/verse. For example, bible-data provides public-domain Bible versions in JSON/SQLite, including individual book JSON files. 
-
-
-
-You'd want to transform it into roughly:
-
-
-
-{
-
-  id: "bible",
-
-  name: "Bible",
-
-  religion: "Christianity",
-
-  chapters: [
-
-    {
-
-      id: 1,
-
-      book: "Genesis",
-
-      chapter: 1,
-
-      verses: [
-
-        {
-
-          number: 1,
-
-          text: "..."
-
-        },
-
-        {
-
-          number: 2,
-
-          text: "..."
-
-        }
-
-      ]
-
-    }
-
-  ]
-
-}
-
-
-
-But I'd actually go one level deeper:
-
-
-
-Bible
-
- ├── Genesis
-
- │    ├── Chapter 1
-
- │    │    ├── Verse 1
-
- │    │    ├── Verse 2
-
- │    │    └── ...
-
- │    ├── Chapter 2
-
- │    └── ...
-
- ├── Exodus
-
- └── ...
-
-
-
-That makes navigation/progress stupidly easy.
-
-
-
-
-
----
-
-
-
-☪️ Quran
-
-
-
-There are several machine-readable datasets.
-
-
-
-quran-json already provides chapter-by-chapter JSON containing Quran text, transliteration and translations. 
-
-
-
-There's also Quran-API, which provides Arabic plus English and several other translations and can be self-hosted. 
-
-
-
-For your no-backend MVP, I'd download the dataset during development and commit the required JSON into your project rather than having the browser depend on an external API.
-
-
-
-Structure:
-
-
-
-{
-
-  id: "quran",
-
-  name: "Quran",
-
-  religion: "Islam",
-
-  chapters: [
-
-    {
-
-      id: 1,
-
-      name: "Al-Fatihah",
-
-      verses: [
-
-        {
-
-          number: 1,
-
-          text: "..."
-
-        }
-
-      ]
-
-    }
-
-  ]
-
-}
-
-
-
-The Quran Foundation API is excellent if you eventually add your backend, but its current content API requires credentials, so it isn't what I'd build the initial frontend-only version around. 
-
-
-
-
-
----
-
-
-
-🕉️ Bhagavad Gita
-
-
-
-This one is particularly nice for your project.
-
-
-
-There are datasets containing all 18 chapters and the verses in JSON. One public-domain dataset uses a 1935 Purohit Swami English translation and includes Sanskrit + transliteration + English. 
-
-
-
-Another source documents the gita/gita repository as public domain and containing 701 verses across 18 chapters. 
-
-
-
-So yours could become:
-
-
-
-{
-
-  id: "bhagavad-gita",
-
-  name: "Bhagavad Gita",
-
-  religion: "Hinduism",
-
-
-
-  chapters: [
-
-    {
-
-      id: 1,
-
-      name: "Arjuna Vishada Yoga",
-
-      verses: [
-
-        {
-
-          number: 1,
-
-          sanskrit: "...",
-
-          transliteration: "...",
-
-          translation: "..."
-
-        }
-
-      ]
-
-    }
-
-  ]
-
-}
-
-
-
-That extra Sanskrit/transliteration data would make your reader way cooler than just displaying English.
-
-
-
-
-
----
-
-
-
-🔥 But here's how I'd structure YOUR actual data
-
-
-
-Don't make your data itself contain the reading schedule.
-
-
-
-Separate content from reading plans.
-
-
-
-books/bible.json
-
-
-
-{
-
-  "id": "bible",
-
-  "name": "Bible",
-
-  "religion": "Christianity",
-
-  "cover": "/books/bible.webp",
-
-  "sections": [
-
-    {
-
-      "id": "genesis",
-
-      "name": "Genesis",
-
-      "chapters": [
-
-        {
-
-          "number": 1,
-
-          "verses": [
-
-            {
-
-              "number": 1,
-
-              "text": "..."
-
-            }
-
-          ]
-
-        }
-
-      ]
-
-    }
-
-  ]
-
-}
-
-
-
-books/quran.json
-
-
-
-{
-
-  "id": "quran",
-
-  "name": "Quran",
-
-  "religion": "Islam",
-
-  "cover": "/books/quran.webp",
-
-  "sections": [
-
-    {
-
-      "id": "al-fatihah",
-
-      "name": "Al-Fatihah",
-
-      "chapters": [
-
-        {
-
-          "number": 1,
-
-          "verses": []
-
-        }
-
-      ]
-
-    }
-
-  ]
-
-}
-
-
-
-For Quran I'd probably call the top-level things surahs, not sections/chapters, because that's the terminology users expect.
-
-
-
-books/gita.json
-
-
-
-{
-
-  "id": "gita",
-
-  "name": "Bhagavad Gita",
-
-  "religion": "Hinduism",
-
-  "cover": "/books/gita.webp",
-
-  "chapters": [
-
-    {
-
-      "number": 1,
-
-      "name": "Arjuna Vishada Yoga",
-
-      "verses": []
-
-    }
-
-  ]
-
-}
-
-
-
-
-
----
-
-
-
-📅 Then separately:
-
-
-
-data/
-
-├── books/
-
-│   ├── bible.json
-
-│   ├── quran.json
-
-│   └── gita.json
-
-│
-
-├── plans/
-
-│   ├── bible/
-
-│   │   ├── 90-day.json
-
-│   │   └── 365-day.json
-
-│   │
-
-│   ├── quran/
-
-│   │   ├── 30-day.json
-
-│   │   └── 60-day.json
-
-│   │
-
-│   └── gita/
-
-│       └── 18-day.json
-
-│
-
-└── quotes/
-
-    ├── christianity.json
-
-    ├── islam.json
-
-    └── hinduism.json
-
-
-
-A plan could simply be:
-
-
-
-{
-
-  "book": "gita",
-
-  "plan": "18-day",
-
-  "days": [
-
-    {
-
-      "day": 1,
-
-      "read": [
-
-        {
-
-          "chapter": 1,
-
-          "verses": "1-47"
-
-        }
-
-      ]
-
-    },
-
-    {
-
-      "day": 2,
-
-      "read": [
-
-        {
-
-          "chapter": 2,
-
-          "verses": "1-72"
-
-        }
-
-      ]
-
-    }
-
-  ]
-
-}
-
-
-
-And this is the important bit: you can make the plan reference content instead of duplicating the actual scripture.
-
-
-
-So your app basically does:
-
-
-
-User selects Gita
-
-        ↓
-
-Load gita.json
-
-        ↓
-
-Load gita/18-day.json
-
-        ↓
-
-Today = Day 7
-
-        ↓
-
-Plan says Chapter 7
-
-        ↓
-
-Find Chapter 7 in gita.json
-
-        ↓
-
-Render it
-
-        ↓
-
-User finishes
-
-        ↓
-
-localStorage → Day 7 completed
-
-
-
-That architecture is clean as hell.
-
-
-
-One more thing
-
-
-
-For the first version, I'd not try to add 20 religions/books at once.
-
-
-
-I'd build the entire engine around 3 books:
-
-
-
-Bible + Quran + Bhagavad Gita
-
-
-
-Once those three work, adding another book becomes basically:
-
-
-
-get text
-
-→ normalize JSON
-
-→ add metadata
-
-→ add cover
-
-→ add reading plan
-
-→ done
-
-
-
-That's the point where your app becomes a generic scripture-reader engine, rather than an app hardcoded around three books. 🚀
-
-This project was built with [Lovable](https://lovable.dev).
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/c55433e6-6985-448e-bcc3-1c8716bbb03d).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
-npm run dev
+    current: number;
+    longest: number;
+    lastRead: string | null;
+  };
+  savedQuotes: string[];
+  history: Record<string, ReadingHistoryEntry>;
+};
 ```
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js 18+ (or 20+)
+- npm or bun
+
+### Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/everread.git
+cd everread
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+```
+
+---
+
+## 📜 Public Domain & Licensing
+
+All scripture texts and translations included in EverRead are strictly in the public domain or distributed under open permissive licenses.
+The EverRead application source code is licensed under the [MIT License](LICENSE).

@@ -1,0 +1,368 @@
+{
+  "id": "30-day",
+  "book": "taoteching",
+  "name": "30-Day Master",
+  "totalDays": 30,
+  "days": [
+    {
+      "day": 1,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 1,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 2,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 3,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 4,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 8,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 16,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 33,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 1,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 2,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 3,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 4,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 8,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 16,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 33,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 1,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 2,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 3,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 4,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 8,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 16,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 33,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 1,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 2,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 3,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 4,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 8,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 16,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 33,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 1,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "read": [
+        {
+          "section": "tao-ching",
+          "chapter": 2,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "id": "30-day",
+  "book": "dhammapada",
+  "name": "30-Day Master",
+  "totalDays": 30,
+  "days": [
+    {
+      "day": 1,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 1,
+          "from": 1,
+          "to": 6,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 3,
+          "from": 1,
+          "to": 5,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 4,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 5,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 6,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 7,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 8,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 9,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 10,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 1,
+          "from": 1,
+          "to": 6,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 3,
+          "from": 1,
+          "to": 5,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 4,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 5,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 6,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 7,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 8,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 9,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 10,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 1,
+          "from": 1,
+          "to": 6,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 3,
+          "from": 1,
+          "to": 5,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 4,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 5,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 6,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 7,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 8,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 9,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 10,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    }
+  ]
+}

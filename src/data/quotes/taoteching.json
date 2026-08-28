@@ -1,0 +1,3287 @@
+[
+  {
+    "id": "taoteching-001",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 1
+  },
+  {
+    "id": "taoteching-002",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 2
+  },
+  {
+    "id": "taoteching-003",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 3
+  },
+  {
+    "id": "taoteching-004",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 4
+  },
+  {
+    "id": "taoteching-005",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 5
+  },
+  {
+    "id": "taoteching-006",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 6
+  },
+  {
+    "id": "taoteching-007",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 7
+  },
+  {
+    "id": "taoteching-008",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 8
+  },
+  {
+    "id": "taoteching-009",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 9
+  },
+  {
+    "id": "taoteching-010",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 10
+  },
+  {
+    "id": "taoteching-011",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 11
+  },
+  {
+    "id": "taoteching-012",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 12
+  },
+  {
+    "id": "taoteching-013",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 13
+  },
+  {
+    "id": "taoteching-014",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 14
+  },
+  {
+    "id": "taoteching-015",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 15
+  },
+  {
+    "id": "taoteching-016",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 16
+  },
+  {
+    "id": "taoteching-017",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 17
+  },
+  {
+    "id": "taoteching-018",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 18
+  },
+  {
+    "id": "taoteching-019",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 19
+  },
+  {
+    "id": "taoteching-020",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 20
+  },
+  {
+    "id": "taoteching-021",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 21
+  },
+  {
+    "id": "taoteching-022",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 22
+  },
+  {
+    "id": "taoteching-023",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 23
+  },
+  {
+    "id": "taoteching-024",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 24
+  },
+  {
+    "id": "taoteching-025",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 25
+  },
+  {
+    "id": "taoteching-026",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 26
+  },
+  {
+    "id": "taoteching-027",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 27
+  },
+  {
+    "id": "taoteching-028",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 28
+  },
+  {
+    "id": "taoteching-029",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 29
+  },
+  {
+    "id": "taoteching-030",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 30
+  },
+  {
+    "id": "taoteching-031",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 31
+  },
+  {
+    "id": "taoteching-032",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 32
+  },
+  {
+    "id": "taoteching-033",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 33
+  },
+  {
+    "id": "taoteching-034",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 34
+  },
+  {
+    "id": "taoteching-035",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 35
+  },
+  {
+    "id": "taoteching-036",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 36
+  },
+  {
+    "id": "taoteching-037",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 37
+  },
+  {
+    "id": "taoteching-038",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 38
+  },
+  {
+    "id": "taoteching-039",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 39
+  },
+  {
+    "id": "taoteching-040",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 40
+  },
+  {
+    "id": "taoteching-041",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 41
+  },
+  {
+    "id": "taoteching-042",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 42
+  },
+  {
+    "id": "taoteching-043",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 43
+  },
+  {
+    "id": "taoteching-044",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 44
+  },
+  {
+    "id": "taoteching-045",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 45
+  },
+  {
+    "id": "taoteching-046",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 46
+  },
+  {
+    "id": "taoteching-047",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 47
+  },
+  {
+    "id": "taoteching-048",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 48
+  },
+  {
+    "id": "taoteching-049",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 49
+  },
+  {
+    "id": "taoteching-050",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 50
+  },
+  {
+    "id": "taoteching-051",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 51
+  },
+  {
+    "id": "taoteching-052",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 52
+  },
+  {
+    "id": "taoteching-053",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 53
+  },
+  {
+    "id": "taoteching-054",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 54
+  },
+  {
+    "id": "taoteching-055",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 55
+  },
+  {
+    "id": "taoteching-056",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 56
+  },
+  {
+    "id": "taoteching-057",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 57
+  },
+  {
+    "id": "taoteching-058",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 58
+  },
+  {
+    "id": "taoteching-059",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 59
+  },
+  {
+    "id": "taoteching-060",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 60
+  },
+  {
+    "id": "taoteching-061",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 61
+  },
+  {
+    "id": "taoteching-062",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 62
+  },
+  {
+    "id": "taoteching-063",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 63
+  },
+  {
+    "id": "taoteching-064",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 64
+  },
+  {
+    "id": "taoteching-065",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 65
+  },
+  {
+    "id": "taoteching-066",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 66
+  },
+  {
+    "id": "taoteching-067",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 67
+  },
+  {
+    "id": "taoteching-068",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 68
+  },
+  {
+    "id": "taoteching-069",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 69
+  },
+  {
+    "id": "taoteching-070",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 70
+  },
+  {
+    "id": "taoteching-071",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 71
+  },
+  {
+    "id": "taoteching-072",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 72
+  },
+  {
+    "id": "taoteching-073",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 73
+  },
+  {
+    "id": "taoteching-074",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 74
+  },
+  {
+    "id": "taoteching-075",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 75
+  },
+  {
+    "id": "taoteching-076",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 76
+  },
+  {
+    "id": "taoteching-077",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 77
+  },
+  {
+    "id": "taoteching-078",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 78
+  },
+  {
+    "id": "taoteching-079",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 79
+  },
+  {
+    "id": "taoteching-080",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 80
+  },
+  {
+    "id": "taoteching-081",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 81
+  },
+  {
+    "id": "taoteching-082",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 82
+  },
+  {
+    "id": "taoteching-083",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 83
+  },
+  {
+    "id": "taoteching-084",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 84
+  },
+  {
+    "id": "taoteching-085",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 85
+  },
+  {
+    "id": "taoteching-086",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 86
+  },
+  {
+    "id": "taoteching-087",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 87
+  },
+  {
+    "id": "taoteching-088",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 88
+  },
+  {
+    "id": "taoteching-089",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 89
+  },
+  {
+    "id": "taoteching-090",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 90
+  },
+  {
+    "id": "taoteching-091",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 91
+  },
+  {
+    "id": "taoteching-092",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 92
+  },
+  {
+    "id": "taoteching-093",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 93
+  },
+  {
+    "id": "taoteching-094",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 94
+  },
+  {
+    "id": "taoteching-095",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 95
+  },
+  {
+    "id": "taoteching-096",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 96
+  },
+  {
+    "id": "taoteching-097",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 97
+  },
+  {
+    "id": "taoteching-098",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 98
+  },
+  {
+    "id": "taoteching-099",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 99
+  },
+  {
+    "id": "taoteching-100",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 100
+  },
+  {
+    "id": "taoteching-101",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 101
+  },
+  {
+    "id": "taoteching-102",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 102
+  },
+  {
+    "id": "taoteching-103",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 103
+  },
+  {
+    "id": "taoteching-104",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 104
+  },
+  {
+    "id": "taoteching-105",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 105
+  },
+  {
+    "id": "taoteching-106",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 106
+  },
+  {
+    "id": "taoteching-107",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 107
+  },
+  {
+    "id": "taoteching-108",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 108
+  },
+  {
+    "id": "taoteching-109",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 109
+  },
+  {
+    "id": "taoteching-110",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 110
+  },
+  {
+    "id": "taoteching-111",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 111
+  },
+  {
+    "id": "taoteching-112",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 112
+  },
+  {
+    "id": "taoteching-113",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 113
+  },
+  {
+    "id": "taoteching-114",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 114
+  },
+  {
+    "id": "taoteching-115",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 115
+  },
+  {
+    "id": "taoteching-116",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 116
+  },
+  {
+    "id": "taoteching-117",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 117
+  },
+  {
+    "id": "taoteching-118",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 118
+  },
+  {
+    "id": "taoteching-119",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 119
+  },
+  {
+    "id": "taoteching-120",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 120
+  },
+  {
+    "id": "taoteching-121",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 121
+  },
+  {
+    "id": "taoteching-122",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 122
+  },
+  {
+    "id": "taoteching-123",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 123
+  },
+  {
+    "id": "taoteching-124",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 124
+  },
+  {
+    "id": "taoteching-125",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 125
+  },
+  {
+    "id": "taoteching-126",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 126
+  },
+  {
+    "id": "taoteching-127",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 127
+  },
+  {
+    "id": "taoteching-128",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 128
+  },
+  {
+    "id": "taoteching-129",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 129
+  },
+  {
+    "id": "taoteching-130",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 130
+  },
+  {
+    "id": "taoteching-131",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 131
+  },
+  {
+    "id": "taoteching-132",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 132
+  },
+  {
+    "id": "taoteching-133",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 133
+  },
+  {
+    "id": "taoteching-134",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 134
+  },
+  {
+    "id": "taoteching-135",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 135
+  },
+  {
+    "id": "taoteching-136",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 136
+  },
+  {
+    "id": "taoteching-137",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 137
+  },
+  {
+    "id": "taoteching-138",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 138
+  },
+  {
+    "id": "taoteching-139",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 139
+  },
+  {
+    "id": "taoteching-140",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 140
+  },
+  {
+    "id": "taoteching-141",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 141
+  },
+  {
+    "id": "taoteching-142",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 142
+  },
+  {
+    "id": "taoteching-143",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 143
+  },
+  {
+    "id": "taoteching-144",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 144
+  },
+  {
+    "id": "taoteching-145",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 145
+  },
+  {
+    "id": "taoteching-146",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 146
+  },
+  {
+    "id": "taoteching-147",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 147
+  },
+  {
+    "id": "taoteching-148",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 148
+  },
+  {
+    "id": "taoteching-149",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 149
+  },
+  {
+    "id": "taoteching-150",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 150
+  },
+  {
+    "id": "taoteching-151",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 151
+  },
+  {
+    "id": "taoteching-152",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 152
+  },
+  {
+    "id": "taoteching-153",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 153
+  },
+  {
+    "id": "taoteching-154",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 154
+  },
+  {
+    "id": "taoteching-155",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 155
+  },
+  {
+    "id": "taoteching-156",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 156
+  },
+  {
+    "id": "taoteching-157",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 157
+  },
+  {
+    "id": "taoteching-158",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 158
+  },
+  {
+    "id": "taoteching-159",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 159
+  },
+  {
+    "id": "taoteching-160",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 160
+  },
+  {
+    "id": "taoteching-161",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 161
+  },
+  {
+    "id": "taoteching-162",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 162
+  },
+  {
+    "id": "taoteching-163",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 163
+  },
+  {
+    "id": "taoteching-164",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 164
+  },
+  {
+    "id": "taoteching-165",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 165
+  },
+  {
+    "id": "taoteching-166",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 166
+  },
+  {
+    "id": "taoteching-167",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 167
+  },
+  {
+    "id": "taoteching-168",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 168
+  },
+  {
+    "id": "taoteching-169",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 169
+  },
+  {
+    "id": "taoteching-170",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 170
+  },
+  {
+    "id": "taoteching-171",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 171
+  },
+  {
+    "id": "taoteching-172",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 172
+  },
+  {
+    "id": "taoteching-173",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 173
+  },
+  {
+    "id": "taoteching-174",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 174
+  },
+  {
+    "id": "taoteching-175",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 175
+  },
+  {
+    "id": "taoteching-176",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 176
+  },
+  {
+    "id": "taoteching-177",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 177
+  },
+  {
+    "id": "taoteching-178",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 178
+  },
+  {
+    "id": "taoteching-179",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 179
+  },
+  {
+    "id": "taoteching-180",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 180
+  },
+  {
+    "id": "taoteching-181",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 181
+  },
+  {
+    "id": "taoteching-182",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 182
+  },
+  {
+    "id": "taoteching-183",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 183
+  },
+  {
+    "id": "taoteching-184",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 184
+  },
+  {
+    "id": "taoteching-185",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 185
+  },
+  {
+    "id": "taoteching-186",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 186
+  },
+  {
+    "id": "taoteching-187",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 187
+  },
+  {
+    "id": "taoteching-188",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 188
+  },
+  {
+    "id": "taoteching-189",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 189
+  },
+  {
+    "id": "taoteching-190",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 190
+  },
+  {
+    "id": "taoteching-191",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 191
+  },
+  {
+    "id": "taoteching-192",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 192
+  },
+  {
+    "id": "taoteching-193",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 193
+  },
+  {
+    "id": "taoteching-194",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 194
+  },
+  {
+    "id": "taoteching-195",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 195
+  },
+  {
+    "id": "taoteching-196",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 196
+  },
+  {
+    "id": "taoteching-197",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 197
+  },
+  {
+    "id": "taoteching-198",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 198
+  },
+  {
+    "id": "taoteching-199",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 199
+  },
+  {
+    "id": "taoteching-200",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 200
+  },
+  {
+    "id": "taoteching-201",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 201
+  },
+  {
+    "id": "taoteching-202",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 202
+  },
+  {
+    "id": "taoteching-203",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 203
+  },
+  {
+    "id": "taoteching-204",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 204
+  },
+  {
+    "id": "taoteching-205",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 205
+  },
+  {
+    "id": "taoteching-206",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 206
+  },
+  {
+    "id": "taoteching-207",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 207
+  },
+  {
+    "id": "taoteching-208",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 208
+  },
+  {
+    "id": "taoteching-209",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 209
+  },
+  {
+    "id": "taoteching-210",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 210
+  },
+  {
+    "id": "taoteching-211",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 211
+  },
+  {
+    "id": "taoteching-212",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 212
+  },
+  {
+    "id": "taoteching-213",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 213
+  },
+  {
+    "id": "taoteching-214",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 214
+  },
+  {
+    "id": "taoteching-215",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 215
+  },
+  {
+    "id": "taoteching-216",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 216
+  },
+  {
+    "id": "taoteching-217",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 217
+  },
+  {
+    "id": "taoteching-218",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 218
+  },
+  {
+    "id": "taoteching-219",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 219
+  },
+  {
+    "id": "taoteching-220",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 220
+  },
+  {
+    "id": "taoteching-221",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 221
+  },
+  {
+    "id": "taoteching-222",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 222
+  },
+  {
+    "id": "taoteching-223",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 223
+  },
+  {
+    "id": "taoteching-224",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 224
+  },
+  {
+    "id": "taoteching-225",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 225
+  },
+  {
+    "id": "taoteching-226",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 226
+  },
+  {
+    "id": "taoteching-227",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 227
+  },
+  {
+    "id": "taoteching-228",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 228
+  },
+  {
+    "id": "taoteching-229",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 229
+  },
+  {
+    "id": "taoteching-230",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 230
+  },
+  {
+    "id": "taoteching-231",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 231
+  },
+  {
+    "id": "taoteching-232",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 232
+  },
+  {
+    "id": "taoteching-233",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 233
+  },
+  {
+    "id": "taoteching-234",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 234
+  },
+  {
+    "id": "taoteching-235",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 235
+  },
+  {
+    "id": "taoteching-236",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 236
+  },
+  {
+    "id": "taoteching-237",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 237
+  },
+  {
+    "id": "taoteching-238",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 238
+  },
+  {
+    "id": "taoteching-239",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 239
+  },
+  {
+    "id": "taoteching-240",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 240
+  },
+  {
+    "id": "taoteching-241",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 241
+  },
+  {
+    "id": "taoteching-242",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 242
+  },
+  {
+    "id": "taoteching-243",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 243
+  },
+  {
+    "id": "taoteching-244",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 244
+  },
+  {
+    "id": "taoteching-245",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 245
+  },
+  {
+    "id": "taoteching-246",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 246
+  },
+  {
+    "id": "taoteching-247",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 247
+  },
+  {
+    "id": "taoteching-248",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 248
+  },
+  {
+    "id": "taoteching-249",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 249
+  },
+  {
+    "id": "taoteching-250",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 250
+  },
+  {
+    "id": "taoteching-251",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 251
+  },
+  {
+    "id": "taoteching-252",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 252
+  },
+  {
+    "id": "taoteching-253",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 253
+  },
+  {
+    "id": "taoteching-254",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 254
+  },
+  {
+    "id": "taoteching-255",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 255
+  },
+  {
+    "id": "taoteching-256",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 256
+  },
+  {
+    "id": "taoteching-257",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 257
+  },
+  {
+    "id": "taoteching-258",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 258
+  },
+  {
+    "id": "taoteching-259",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 259
+  },
+  {
+    "id": "taoteching-260",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 260
+  },
+  {
+    "id": "taoteching-261",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 261
+  },
+  {
+    "id": "taoteching-262",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 262
+  },
+  {
+    "id": "taoteching-263",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 263
+  },
+  {
+    "id": "taoteching-264",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 264
+  },
+  {
+    "id": "taoteching-265",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 265
+  },
+  {
+    "id": "taoteching-266",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 266
+  },
+  {
+    "id": "taoteching-267",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 267
+  },
+  {
+    "id": "taoteching-268",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 268
+  },
+  {
+    "id": "taoteching-269",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 269
+  },
+  {
+    "id": "taoteching-270",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 270
+  },
+  {
+    "id": "taoteching-271",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 271
+  },
+  {
+    "id": "taoteching-272",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 272
+  },
+  {
+    "id": "taoteching-273",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 273
+  },
+  {
+    "id": "taoteching-274",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 274
+  },
+  {
+    "id": "taoteching-275",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 275
+  },
+  {
+    "id": "taoteching-276",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 276
+  },
+  {
+    "id": "taoteching-277",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 277
+  },
+  {
+    "id": "taoteching-278",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 278
+  },
+  {
+    "id": "taoteching-279",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 279
+  },
+  {
+    "id": "taoteching-280",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 280
+  },
+  {
+    "id": "taoteching-281",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 281
+  },
+  {
+    "id": "taoteching-282",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 282
+  },
+  {
+    "id": "taoteching-283",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 283
+  },
+  {
+    "id": "taoteching-284",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 284
+  },
+  {
+    "id": "taoteching-285",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 285
+  },
+  {
+    "id": "taoteching-286",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 286
+  },
+  {
+    "id": "taoteching-287",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 287
+  },
+  {
+    "id": "taoteching-288",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 288
+  },
+  {
+    "id": "taoteching-289",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 289
+  },
+  {
+    "id": "taoteching-290",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 290
+  },
+  {
+    "id": "taoteching-291",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 291
+  },
+  {
+    "id": "taoteching-292",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 292
+  },
+  {
+    "id": "taoteching-293",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 293
+  },
+  {
+    "id": "taoteching-294",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 294
+  },
+  {
+    "id": "taoteching-295",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 295
+  },
+  {
+    "id": "taoteching-296",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 296
+  },
+  {
+    "id": "taoteching-297",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 297
+  },
+  {
+    "id": "taoteching-298",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 298
+  },
+  {
+    "id": "taoteching-299",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 299
+  },
+  {
+    "id": "taoteching-300",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 300
+  },
+  {
+    "id": "taoteching-301",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 301
+  },
+  {
+    "id": "taoteching-302",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 302
+  },
+  {
+    "id": "taoteching-303",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 303
+  },
+  {
+    "id": "taoteching-304",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 304
+  },
+  {
+    "id": "taoteching-305",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 305
+  },
+  {
+    "id": "taoteching-306",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 306
+  },
+  {
+    "id": "taoteching-307",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 307
+  },
+  {
+    "id": "taoteching-308",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 308
+  },
+  {
+    "id": "taoteching-309",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 309
+  },
+  {
+    "id": "taoteching-310",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 310
+  },
+  {
+    "id": "taoteching-311",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 311
+  },
+  {
+    "id": "taoteching-312",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 312
+  },
+  {
+    "id": "taoteching-313",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 313
+  },
+  {
+    "id": "taoteching-314",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 314
+  },
+  {
+    "id": "taoteching-315",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 315
+  },
+  {
+    "id": "taoteching-316",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 316
+  },
+  {
+    "id": "taoteching-317",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 317
+  },
+  {
+    "id": "taoteching-318",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 318
+  },
+  {
+    "id": "taoteching-319",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 319
+  },
+  {
+    "id": "taoteching-320",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 320
+  },
+  {
+    "id": "taoteching-321",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 321
+  },
+  {
+    "id": "taoteching-322",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 322
+  },
+  {
+    "id": "taoteching-323",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 323
+  },
+  {
+    "id": "taoteching-324",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 324
+  },
+  {
+    "id": "taoteching-325",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 325
+  },
+  {
+    "id": "taoteching-326",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 326
+  },
+  {
+    "id": "taoteching-327",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 327
+  },
+  {
+    "id": "taoteching-328",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 328
+  },
+  {
+    "id": "taoteching-329",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 329
+  },
+  {
+    "id": "taoteching-330",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 330
+  },
+  {
+    "id": "taoteching-331",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 331
+  },
+  {
+    "id": "taoteching-332",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 332
+  },
+  {
+    "id": "taoteching-333",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 333
+  },
+  {
+    "id": "taoteching-334",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 334
+  },
+  {
+    "id": "taoteching-335",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 335
+  },
+  {
+    "id": "taoteching-336",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 336
+  },
+  {
+    "id": "taoteching-337",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 337
+  },
+  {
+    "id": "taoteching-338",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 338
+  },
+  {
+    "id": "taoteching-339",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 339
+  },
+  {
+    "id": "taoteching-340",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 340
+  },
+  {
+    "id": "taoteching-341",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 341
+  },
+  {
+    "id": "taoteching-342",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 342
+  },
+  {
+    "id": "taoteching-343",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 343
+  },
+  {
+    "id": "taoteching-344",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 344
+  },
+  {
+    "id": "taoteching-345",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 345
+  },
+  {
+    "id": "taoteching-346",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 346
+  },
+  {
+    "id": "taoteching-347",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 347
+  },
+  {
+    "id": "taoteching-348",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 348
+  },
+  {
+    "id": "taoteching-349",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao is like an empty vessel that, being filled, is never exhausted. Fathomless, it seems to be the primal ancestor of all things.",
+    "original": "道沖，而用之或不盈。淵兮，似萬物之宗。",
+    "reference": "Tao Te Ching — The Source Without Limit:1",
+    "dayOfYear": 349
+  },
+  {
+    "id": "taoteching-350",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "It blunts sharpness, unravels tangles, softens glare, and settles dust. Deep and serene, it seems forever present.",
+    "original": "挫其銳，解其紛，和其光，同其塵。湛兮，似或存。",
+    "reference": "Tao Te Ching — The Source Without Limit:2",
+    "dayOfYear": 350
+  },
+  {
+    "id": "taoteching-351",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The highest goodness is like water. Water excels in benefiting all things without competing with them. It dwells in low places that people disdain; thus it comes near to the Tao.",
+    "original": "上善若水。水善利萬物而不爭，處眾人之所惡，故幾於道。",
+    "reference": "Tao Te Ching — The Excellence of Water:1",
+    "dayOfYear": 351
+  },
+  {
+    "id": "taoteching-352",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "In dwelling, be close to the land. In meditation, delve deep into the heart. In dealing with others, be gentle and kind. In speaking, be true. In governing, maintain peace. In action, choose the right time.",
+    "original": "居善地，心善淵，與善仁，言善信，政善治，事善能，動善時。",
+    "reference": "Tao Te Ching — The Excellence of Water:2",
+    "dayOfYear": 352
+  },
+  {
+    "id": "taoteching-353",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Because you do not contend, no blame will be attached to you.",
+    "original": "夫唯不爭，故無尤。",
+    "reference": "Tao Te Ching — The Excellence of Water:3",
+    "dayOfYear": 353
+  },
+  {
+    "id": "taoteching-354",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Attain utmost emptiness; maintain absolute stillness. All things flourish together, and I see them return to their source.",
+    "original": "致虛極，守靜篤。萬物並作，吾以觀復。",
+    "reference": "Tao Te Ching — Returning to Stillness:1",
+    "dayOfYear": 354
+  },
+  {
+    "id": "taoteching-355",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Each thing returns to its root. Returning to the root means stillness; stillness means fulfilling its destiny. Returning to destiny is called Constancy; knowing Constancy is called Enlightenment.",
+    "original": "夫物芸芸，各復歸其根。歸根曰靜，靜曰復命。復命曰常，知常曰明。",
+    "reference": "Tao Te Ching — Returning to Stillness:2",
+    "dayOfYear": 355
+  },
+  {
+    "id": "taoteching-356",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows others is wise; he who knows himself is enlightened. He who conquers others has force; he who conquers himself has true strength.",
+    "original": "知人者智，自知者明。勝人者有力，自勝者強。",
+    "reference": "Tao Te Ching — True Mastery:1",
+    "dayOfYear": 356
+  },
+  {
+    "id": "taoteching-357",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "He who knows when he has enough is truly rich. He who perseveres with energy has resolve. He who dies without perishing enjoys longevity.",
+    "original": "知足者富。強行者有志。不失其所者久。死而不亡者壽。",
+    "reference": "Tao Te Ching — True Mastery:2",
+    "dayOfYear": 357
+  },
+  {
+    "id": "taoteching-358",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "original": "道可道，非常道。名可名，非常名。",
+    "reference": "Tao Te Ching — Embodying the Tao:1",
+    "dayOfYear": 358
+  },
+  {
+    "id": "taoteching-359",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Conceived of as having no name, it is the Originator of heaven and earth; conceived of as having a name, it is the Mother of all things.",
+    "original": "無名天地之始；有名萬物之母。",
+    "reference": "Tao Te Ching — Embodying the Tao:2",
+    "dayOfYear": 359
+  },
+  {
+    "id": "taoteching-360",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Always without desire we discern the spiritual essence; always with desire we discern the manifestations. These two spring from the same source but differ in name; this mystery is the gateway to all wonder.",
+    "original": "故常無欲，以觀其妙；常有欲，以觀其徼。此兩者，同出而異名，同謂之玄。玄之又玄，眾妙之門。",
+    "reference": "Tao Te Ching — Embodying the Tao:3",
+    "dayOfYear": 360
+  },
+  {
+    "id": "taoteching-361",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "All in the world know the beauty of the beautiful, and in doing so recognize ugliness. All know the goodness of the good, and in doing so recognize evil.",
+    "original": "天下皆知美之為美，斯惡已；皆知善之為善，斯不善已。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:1",
+    "dayOfYear": 361
+  },
+  {
+    "id": "taoteching-362",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Being and non-being produce each other; difficult and easy complete each other; long and short show each other; high and low bridge each other; tone and voice harmonize each other; front and back follow each other.",
+    "original": "有無相生，難易相成，長短相形，高下相傾，音聲相和，前後相隨。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:2",
+    "dayOfYear": 362
+  },
+  {
+    "id": "taoteching-363",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Therefore the sage manages affairs without action (Wu Wei) and conveys instruction without words. All things spring up, and he refuses them not; he produces them, but claims no ownership.",
+    "original": "是以聖人處無為之事，行不言之教；萬物作而弗始，生而弗有，為而弗恃，功成而弗居。",
+    "reference": "Tao Te Ching — The Harmony of Opposites:3",
+    "dayOfYear": 363
+  },
+  {
+    "id": "taoteching-364",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "Not exalting the talented prevents people from contending. Not prizing hard-to-get goods prevents robbery. Not displaying objects of desire keeps people's hearts uncorrupted.",
+    "original": "不尚賢，使民不爭；不貴難得之貨，使民不為盜；不見可欲，使民心不亂。",
+    "reference": "Tao Te Ching — Quieting the Mind:1",
+    "dayOfYear": 364
+  },
+  {
+    "id": "taoteching-365",
+    "book": "taoteching",
+    "tradition": "Taoism",
+    "text": "The sage empties the mind and fills the belly, weakens ambitions and strengthens the bones. Practice non-action, and nothing remains ungoverned.",
+    "original": "是以聖人之治，虛其心，實其腹，弱其志，強其骨。為無為，則無不治。",
+    "reference": "Tao Te Ching — Quieting the Mind:2",
+    "dayOfYear": 365
+  }
+]

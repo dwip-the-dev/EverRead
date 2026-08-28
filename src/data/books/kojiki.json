@@ -1,0 +1,34 @@
+{
+  "id": "kojiki",
+  "name": "The Kojiki & Sacred Norito",
+  "religion": "Shintoism",
+  "translation": "Chamberlain & Aston Classical Translation",
+  "unitLabel": "Section",
+  "sections": [
+    {
+      "id": "kojiki-core",
+      "name": "Records of Ancient Matters & Divine Liturgies",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "The Age of the Gods (Kamiyo)",
+          "subtitle": "The harmony of heaven, earth, and kami",
+          "verses": [
+            {
+              "number": 1,
+              "text": "The names of the Deities that were born in the Plain of High Heaven when the Heaven and Earth began were: the Deity Master-of-the-August-Center-of-Heaven, next the High-August-Producing-Wondrous Deity, next the Divine-Producing-Wondrous Deity.",
+              "original": "天地初發之時、於高天原成神名、天之御中主神、次高御產巢日神、次神產巢日神。",
+              "transliteration": "Ame-tsuchi no hajime no toki, Takama-no-hara ni nareru kami no na..."
+            },
+            {
+              "number": 2,
+              "text": "Live with a heart as bright and upright as the sun (Akaki kiyoki kokoro). Cultivate gratitude towards all beings and revere the divine spirit in nature.",
+              "original": "明き清き心をもて、天地の神々に仕え奉るべし。",
+              "transliteration": "Akaki kiyoki kokoro o mote, ame-tsuchi no kamigami ni..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

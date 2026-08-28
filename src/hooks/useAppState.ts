@@ -9,13 +9,20 @@ export function useAppState() {
   const [hydrated, setHydrated] = useState(false);
 
   useEffect(() => {
-    setState(readState());
+    const loaded = readState();
+    setState(loaded);
     setHydrated(true);
-    const sync = () => setState(readState());
-    window.addEventListener("lectio:state", sync);
+    applyTheme(loaded.settings.theme);
+
+    const sync = () => {
+      const next = readState();
+      setState(next);
+      applyTheme(next.settings.theme);
+    };
+    window.addEventListener("everread:state", sync);
     window.addEventListener("storage", sync);
     return () => {
-      window.removeEventListener("lectio:state", sync);
+      window.removeEventListener("everread:state", sync);
       window.removeEventListener("storage", sync);
     };
   }, []);
@@ -24,6 +31,9 @@ export function useAppState() {
     setState((prev) => {
       const next = fn(prev);
       writeState(next);
+      if (next.settings.theme !== prev.settings.theme) {
+        applyTheme(next.settings.theme);
+      }
       return next;
     });
   }, []);
@@ -41,22 +51,38 @@ export function useAppState() {
   );
 
   const changePlan = useCallback(
-    (plan: string) => update((s) => ({ ...s, readingPlan: plan })),
+    (plan: string) =>
+      update((s) => ({
+        ...s,
+        readingPlan: plan,
+        progress: { ...s.progress, currentDay: 1, completedDays: [] },
+        lastPosition: null,
+      })),
     [update],
   );
 
   const completeDay = useCallback(
     (day: number, plan: Plan) =>
       update((s) => {
-        if (s.progress.completedDays.includes(day)) return s;
-        const completedDays = [...s.progress.completedDays, day].sort((a, b) => a - b);
+        if (!s.selectedBook) return s;
+        const isAlreadyDone = s.progress.completedDays.includes(day);
+        const completedDays = isAlreadyDone
+          ? s.progress.completedDays
+          : [...s.progress.completedDays, day].sort((a, b) => a - b);
+
         const planDay = plan.days.find((d) => d.day === day);
         const chapters = new Set(s.progress.completedChapters);
+        const dayChaptersList: string[] = [];
+
         planDay?.read.forEach((r) => {
-          if (r.full) chapters.add(chapterKey(r.section, r.chapter));
+          const key = chapterKey(r.section, r.chapter);
+          dayChaptersList.push(key);
+          if (r.full) chapters.add(key);
         });
+
         let next = 1;
-        while (completedDays.includes(next)) next += 1;
+        while (completedDays.includes(next) && next <= plan.totalDays) next += 1;
+
         const today = todayKey();
         const streak =
           s.streak.lastRead === today
@@ -69,6 +95,17 @@ export function useAppState() {
                 ),
                 lastRead: today,
               };
+
+        const history = {
+          ...s.history,
+          [today]: {
+            date: today,
+            day,
+            book: s.selectedBook,
+            chapters: dayChaptersList,
+          },
+        };
+
         return {
           ...s,
           progress: {
@@ -78,6 +115,7 @@ export function useAppState() {
           },
           lastPosition: null,
           streak,
+          history,
         };
       }),
     [update],
@@ -94,8 +132,36 @@ export function useAppState() {
     [update],
   );
 
+  const toggleChapter = useCallback(
+    (sectionId: string, chapterNumber: number) =>
+      update((s) => {
+        const key = chapterKey(sectionId, chapterNumber);
+        const exists = s.progress.completedChapters.includes(key);
+        const completedChapters = exists
+          ? s.progress.completedChapters.filter((c) => c !== key)
+          : [...s.progress.completedChapters, key];
+        return {
+          ...s,
+          progress: {
+            ...s.progress,
+            completedChapters,
+          },
+        };
+      }),
+    [update],
+  );
+
   const savePosition = useCallback(
-    (pos: AppState["lastPosition"]) => update((s) => ({ ...s, lastPosition: pos })),
+    (pos: AppState["lastPosition"]) =>
+      update((s) => ({
+        ...s,
+        lastPosition: pos ? { ...pos, timestamp: Date.now() } : null,
+      })),
+    [update],
+  );
+
+  const clearPosition = useCallback(
+    () => update((s) => ({ ...s, lastPosition: null })),
     [update],
   );
 
@@ -112,11 +178,18 @@ export function useAppState() {
 
   const setSettings = useCallback(
     (patch: Partial<AppState["settings"]>) =>
-      update((s) => ({ ...s, settings: { ...s.settings, ...patch } })),
+      update((s) => {
+        const nextSettings = { ...s.settings, ...patch };
+        if (patch.theme) applyTheme(patch.theme);
+        return { ...s, settings: nextSettings };
+      }),
     [update],
   );
 
-  const reset = useCallback(() => update(() => defaultState), [update]);
+  const reset = useCallback(() => {
+    update(() => defaultState);
+    applyTheme("light");
+  }, [update]);
 
   return {
     state,
@@ -125,11 +198,24 @@ export function useAppState() {
     changePlan,
     completeDay,
     uncompleteDay,
+    toggleChapter,
     savePosition,
+    clearPosition,
     toggleQuote,
     setSettings,
     reset,
   };
+}
+
+function applyTheme(theme: "light" | "dark" | "sepia") {
+  if (typeof document === "undefined") return;
+  const root = document.documentElement;
+  root.classList.remove("dark", "sepia");
+  if (theme === "dark") {
+    root.classList.add("dark");
+  } else if (theme === "sepia") {
+    root.classList.add("sepia");
+  }
 }
 
 export function chapterProgress(state: AppState, book: Book) {

@@ -1,0 +1,3287 @@
+[
+  {
+    "id": "dhammapada-001",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 1
+  },
+  {
+    "id": "dhammapada-002",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 2
+  },
+  {
+    "id": "dhammapada-003",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 3
+  },
+  {
+    "id": "dhammapada-004",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 4
+  },
+  {
+    "id": "dhammapada-005",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 5
+  },
+  {
+    "id": "dhammapada-006",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 6
+  },
+  {
+    "id": "dhammapada-007",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 7
+  },
+  {
+    "id": "dhammapada-008",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 8
+  },
+  {
+    "id": "dhammapada-009",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 9
+  },
+  {
+    "id": "dhammapada-010",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 10
+  },
+  {
+    "id": "dhammapada-011",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 11
+  },
+  {
+    "id": "dhammapada-012",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 12
+  },
+  {
+    "id": "dhammapada-013",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 13
+  },
+  {
+    "id": "dhammapada-014",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 14
+  },
+  {
+    "id": "dhammapada-015",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 15
+  },
+  {
+    "id": "dhammapada-016",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 16
+  },
+  {
+    "id": "dhammapada-017",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 17
+  },
+  {
+    "id": "dhammapada-018",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 18
+  },
+  {
+    "id": "dhammapada-019",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 19
+  },
+  {
+    "id": "dhammapada-020",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 20
+  },
+  {
+    "id": "dhammapada-021",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 21
+  },
+  {
+    "id": "dhammapada-022",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 22
+  },
+  {
+    "id": "dhammapada-023",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 23
+  },
+  {
+    "id": "dhammapada-024",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 24
+  },
+  {
+    "id": "dhammapada-025",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 25
+  },
+  {
+    "id": "dhammapada-026",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 26
+  },
+  {
+    "id": "dhammapada-027",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 27
+  },
+  {
+    "id": "dhammapada-028",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 28
+  },
+  {
+    "id": "dhammapada-029",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 29
+  },
+  {
+    "id": "dhammapada-030",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 30
+  },
+  {
+    "id": "dhammapada-031",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 31
+  },
+  {
+    "id": "dhammapada-032",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 32
+  },
+  {
+    "id": "dhammapada-033",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 33
+  },
+  {
+    "id": "dhammapada-034",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 34
+  },
+  {
+    "id": "dhammapada-035",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 35
+  },
+  {
+    "id": "dhammapada-036",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 36
+  },
+  {
+    "id": "dhammapada-037",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 37
+  },
+  {
+    "id": "dhammapada-038",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 38
+  },
+  {
+    "id": "dhammapada-039",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 39
+  },
+  {
+    "id": "dhammapada-040",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 40
+  },
+  {
+    "id": "dhammapada-041",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 41
+  },
+  {
+    "id": "dhammapada-042",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 42
+  },
+  {
+    "id": "dhammapada-043",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 43
+  },
+  {
+    "id": "dhammapada-044",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 44
+  },
+  {
+    "id": "dhammapada-045",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 45
+  },
+  {
+    "id": "dhammapada-046",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 46
+  },
+  {
+    "id": "dhammapada-047",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 47
+  },
+  {
+    "id": "dhammapada-048",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 48
+  },
+  {
+    "id": "dhammapada-049",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 49
+  },
+  {
+    "id": "dhammapada-050",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 50
+  },
+  {
+    "id": "dhammapada-051",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 51
+  },
+  {
+    "id": "dhammapada-052",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 52
+  },
+  {
+    "id": "dhammapada-053",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 53
+  },
+  {
+    "id": "dhammapada-054",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 54
+  },
+  {
+    "id": "dhammapada-055",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 55
+  },
+  {
+    "id": "dhammapada-056",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 56
+  },
+  {
+    "id": "dhammapada-057",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 57
+  },
+  {
+    "id": "dhammapada-058",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 58
+  },
+  {
+    "id": "dhammapada-059",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 59
+  },
+  {
+    "id": "dhammapada-060",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 60
+  },
+  {
+    "id": "dhammapada-061",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 61
+  },
+  {
+    "id": "dhammapada-062",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 62
+  },
+  {
+    "id": "dhammapada-063",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 63
+  },
+  {
+    "id": "dhammapada-064",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 64
+  },
+  {
+    "id": "dhammapada-065",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 65
+  },
+  {
+    "id": "dhammapada-066",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 66
+  },
+  {
+    "id": "dhammapada-067",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 67
+  },
+  {
+    "id": "dhammapada-068",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 68
+  },
+  {
+    "id": "dhammapada-069",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 69
+  },
+  {
+    "id": "dhammapada-070",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 70
+  },
+  {
+    "id": "dhammapada-071",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 71
+  },
+  {
+    "id": "dhammapada-072",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 72
+  },
+  {
+    "id": "dhammapada-073",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 73
+  },
+  {
+    "id": "dhammapada-074",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 74
+  },
+  {
+    "id": "dhammapada-075",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 75
+  },
+  {
+    "id": "dhammapada-076",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 76
+  },
+  {
+    "id": "dhammapada-077",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 77
+  },
+  {
+    "id": "dhammapada-078",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 78
+  },
+  {
+    "id": "dhammapada-079",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 79
+  },
+  {
+    "id": "dhammapada-080",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 80
+  },
+  {
+    "id": "dhammapada-081",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 81
+  },
+  {
+    "id": "dhammapada-082",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 82
+  },
+  {
+    "id": "dhammapada-083",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 83
+  },
+  {
+    "id": "dhammapada-084",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 84
+  },
+  {
+    "id": "dhammapada-085",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 85
+  },
+  {
+    "id": "dhammapada-086",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 86
+  },
+  {
+    "id": "dhammapada-087",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 87
+  },
+  {
+    "id": "dhammapada-088",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 88
+  },
+  {
+    "id": "dhammapada-089",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 89
+  },
+  {
+    "id": "dhammapada-090",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 90
+  },
+  {
+    "id": "dhammapada-091",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 91
+  },
+  {
+    "id": "dhammapada-092",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 92
+  },
+  {
+    "id": "dhammapada-093",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 93
+  },
+  {
+    "id": "dhammapada-094",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 94
+  },
+  {
+    "id": "dhammapada-095",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 95
+  },
+  {
+    "id": "dhammapada-096",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 96
+  },
+  {
+    "id": "dhammapada-097",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 97
+  },
+  {
+    "id": "dhammapada-098",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 98
+  },
+  {
+    "id": "dhammapada-099",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 99
+  },
+  {
+    "id": "dhammapada-100",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 100
+  },
+  {
+    "id": "dhammapada-101",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 101
+  },
+  {
+    "id": "dhammapada-102",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 102
+  },
+  {
+    "id": "dhammapada-103",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 103
+  },
+  {
+    "id": "dhammapada-104",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 104
+  },
+  {
+    "id": "dhammapada-105",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 105
+  },
+  {
+    "id": "dhammapada-106",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 106
+  },
+  {
+    "id": "dhammapada-107",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 107
+  },
+  {
+    "id": "dhammapada-108",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 108
+  },
+  {
+    "id": "dhammapada-109",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 109
+  },
+  {
+    "id": "dhammapada-110",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 110
+  },
+  {
+    "id": "dhammapada-111",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 111
+  },
+  {
+    "id": "dhammapada-112",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 112
+  },
+  {
+    "id": "dhammapada-113",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 113
+  },
+  {
+    "id": "dhammapada-114",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 114
+  },
+  {
+    "id": "dhammapada-115",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 115
+  },
+  {
+    "id": "dhammapada-116",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 116
+  },
+  {
+    "id": "dhammapada-117",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 117
+  },
+  {
+    "id": "dhammapada-118",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 118
+  },
+  {
+    "id": "dhammapada-119",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 119
+  },
+  {
+    "id": "dhammapada-120",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 120
+  },
+  {
+    "id": "dhammapada-121",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 121
+  },
+  {
+    "id": "dhammapada-122",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 122
+  },
+  {
+    "id": "dhammapada-123",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 123
+  },
+  {
+    "id": "dhammapada-124",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 124
+  },
+  {
+    "id": "dhammapada-125",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 125
+  },
+  {
+    "id": "dhammapada-126",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 126
+  },
+  {
+    "id": "dhammapada-127",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 127
+  },
+  {
+    "id": "dhammapada-128",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 128
+  },
+  {
+    "id": "dhammapada-129",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 129
+  },
+  {
+    "id": "dhammapada-130",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 130
+  },
+  {
+    "id": "dhammapada-131",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 131
+  },
+  {
+    "id": "dhammapada-132",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 132
+  },
+  {
+    "id": "dhammapada-133",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 133
+  },
+  {
+    "id": "dhammapada-134",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 134
+  },
+  {
+    "id": "dhammapada-135",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 135
+  },
+  {
+    "id": "dhammapada-136",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 136
+  },
+  {
+    "id": "dhammapada-137",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 137
+  },
+  {
+    "id": "dhammapada-138",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 138
+  },
+  {
+    "id": "dhammapada-139",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 139
+  },
+  {
+    "id": "dhammapada-140",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 140
+  },
+  {
+    "id": "dhammapada-141",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 141
+  },
+  {
+    "id": "dhammapada-142",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 142
+  },
+  {
+    "id": "dhammapada-143",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 143
+  },
+  {
+    "id": "dhammapada-144",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 144
+  },
+  {
+    "id": "dhammapada-145",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 145
+  },
+  {
+    "id": "dhammapada-146",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 146
+  },
+  {
+    "id": "dhammapada-147",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 147
+  },
+  {
+    "id": "dhammapada-148",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 148
+  },
+  {
+    "id": "dhammapada-149",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 149
+  },
+  {
+    "id": "dhammapada-150",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 150
+  },
+  {
+    "id": "dhammapada-151",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 151
+  },
+  {
+    "id": "dhammapada-152",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 152
+  },
+  {
+    "id": "dhammapada-153",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 153
+  },
+  {
+    "id": "dhammapada-154",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 154
+  },
+  {
+    "id": "dhammapada-155",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 155
+  },
+  {
+    "id": "dhammapada-156",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 156
+  },
+  {
+    "id": "dhammapada-157",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 157
+  },
+  {
+    "id": "dhammapada-158",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 158
+  },
+  {
+    "id": "dhammapada-159",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 159
+  },
+  {
+    "id": "dhammapada-160",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 160
+  },
+  {
+    "id": "dhammapada-161",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 161
+  },
+  {
+    "id": "dhammapada-162",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 162
+  },
+  {
+    "id": "dhammapada-163",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 163
+  },
+  {
+    "id": "dhammapada-164",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 164
+  },
+  {
+    "id": "dhammapada-165",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 165
+  },
+  {
+    "id": "dhammapada-166",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 166
+  },
+  {
+    "id": "dhammapada-167",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 167
+  },
+  {
+    "id": "dhammapada-168",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 168
+  },
+  {
+    "id": "dhammapada-169",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 169
+  },
+  {
+    "id": "dhammapada-170",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 170
+  },
+  {
+    "id": "dhammapada-171",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 171
+  },
+  {
+    "id": "dhammapada-172",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 172
+  },
+  {
+    "id": "dhammapada-173",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 173
+  },
+  {
+    "id": "dhammapada-174",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 174
+  },
+  {
+    "id": "dhammapada-175",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 175
+  },
+  {
+    "id": "dhammapada-176",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 176
+  },
+  {
+    "id": "dhammapada-177",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 177
+  },
+  {
+    "id": "dhammapada-178",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 178
+  },
+  {
+    "id": "dhammapada-179",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 179
+  },
+  {
+    "id": "dhammapada-180",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 180
+  },
+  {
+    "id": "dhammapada-181",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 181
+  },
+  {
+    "id": "dhammapada-182",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 182
+  },
+  {
+    "id": "dhammapada-183",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 183
+  },
+  {
+    "id": "dhammapada-184",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 184
+  },
+  {
+    "id": "dhammapada-185",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 185
+  },
+  {
+    "id": "dhammapada-186",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 186
+  },
+  {
+    "id": "dhammapada-187",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 187
+  },
+  {
+    "id": "dhammapada-188",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 188
+  },
+  {
+    "id": "dhammapada-189",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 189
+  },
+  {
+    "id": "dhammapada-190",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 190
+  },
+  {
+    "id": "dhammapada-191",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 191
+  },
+  {
+    "id": "dhammapada-192",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 192
+  },
+  {
+    "id": "dhammapada-193",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 193
+  },
+  {
+    "id": "dhammapada-194",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 194
+  },
+  {
+    "id": "dhammapada-195",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 195
+  },
+  {
+    "id": "dhammapada-196",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 196
+  },
+  {
+    "id": "dhammapada-197",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 197
+  },
+  {
+    "id": "dhammapada-198",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 198
+  },
+  {
+    "id": "dhammapada-199",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 199
+  },
+  {
+    "id": "dhammapada-200",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 200
+  },
+  {
+    "id": "dhammapada-201",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 201
+  },
+  {
+    "id": "dhammapada-202",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 202
+  },
+  {
+    "id": "dhammapada-203",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 203
+  },
+  {
+    "id": "dhammapada-204",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 204
+  },
+  {
+    "id": "dhammapada-205",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 205
+  },
+  {
+    "id": "dhammapada-206",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 206
+  },
+  {
+    "id": "dhammapada-207",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 207
+  },
+  {
+    "id": "dhammapada-208",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 208
+  },
+  {
+    "id": "dhammapada-209",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 209
+  },
+  {
+    "id": "dhammapada-210",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 210
+  },
+  {
+    "id": "dhammapada-211",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 211
+  },
+  {
+    "id": "dhammapada-212",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 212
+  },
+  {
+    "id": "dhammapada-213",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 213
+  },
+  {
+    "id": "dhammapada-214",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 214
+  },
+  {
+    "id": "dhammapada-215",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 215
+  },
+  {
+    "id": "dhammapada-216",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 216
+  },
+  {
+    "id": "dhammapada-217",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 217
+  },
+  {
+    "id": "dhammapada-218",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 218
+  },
+  {
+    "id": "dhammapada-219",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 219
+  },
+  {
+    "id": "dhammapada-220",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 220
+  },
+  {
+    "id": "dhammapada-221",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 221
+  },
+  {
+    "id": "dhammapada-222",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 222
+  },
+  {
+    "id": "dhammapada-223",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 223
+  },
+  {
+    "id": "dhammapada-224",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 224
+  },
+  {
+    "id": "dhammapada-225",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 225
+  },
+  {
+    "id": "dhammapada-226",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 226
+  },
+  {
+    "id": "dhammapada-227",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 227
+  },
+  {
+    "id": "dhammapada-228",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 228
+  },
+  {
+    "id": "dhammapada-229",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 229
+  },
+  {
+    "id": "dhammapada-230",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 230
+  },
+  {
+    "id": "dhammapada-231",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 231
+  },
+  {
+    "id": "dhammapada-232",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 232
+  },
+  {
+    "id": "dhammapada-233",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 233
+  },
+  {
+    "id": "dhammapada-234",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 234
+  },
+  {
+    "id": "dhammapada-235",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 235
+  },
+  {
+    "id": "dhammapada-236",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 236
+  },
+  {
+    "id": "dhammapada-237",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 237
+  },
+  {
+    "id": "dhammapada-238",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 238
+  },
+  {
+    "id": "dhammapada-239",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 239
+  },
+  {
+    "id": "dhammapada-240",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 240
+  },
+  {
+    "id": "dhammapada-241",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 241
+  },
+  {
+    "id": "dhammapada-242",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 242
+  },
+  {
+    "id": "dhammapada-243",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 243
+  },
+  {
+    "id": "dhammapada-244",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 244
+  },
+  {
+    "id": "dhammapada-245",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 245
+  },
+  {
+    "id": "dhammapada-246",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 246
+  },
+  {
+    "id": "dhammapada-247",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 247
+  },
+  {
+    "id": "dhammapada-248",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 248
+  },
+  {
+    "id": "dhammapada-249",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 249
+  },
+  {
+    "id": "dhammapada-250",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 250
+  },
+  {
+    "id": "dhammapada-251",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 251
+  },
+  {
+    "id": "dhammapada-252",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 252
+  },
+  {
+    "id": "dhammapada-253",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 253
+  },
+  {
+    "id": "dhammapada-254",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 254
+  },
+  {
+    "id": "dhammapada-255",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 255
+  },
+  {
+    "id": "dhammapada-256",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 256
+  },
+  {
+    "id": "dhammapada-257",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 257
+  },
+  {
+    "id": "dhammapada-258",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 258
+  },
+  {
+    "id": "dhammapada-259",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 259
+  },
+  {
+    "id": "dhammapada-260",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 260
+  },
+  {
+    "id": "dhammapada-261",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 261
+  },
+  {
+    "id": "dhammapada-262",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 262
+  },
+  {
+    "id": "dhammapada-263",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 263
+  },
+  {
+    "id": "dhammapada-264",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 264
+  },
+  {
+    "id": "dhammapada-265",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 265
+  },
+  {
+    "id": "dhammapada-266",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 266
+  },
+  {
+    "id": "dhammapada-267",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 267
+  },
+  {
+    "id": "dhammapada-268",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 268
+  },
+  {
+    "id": "dhammapada-269",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 269
+  },
+  {
+    "id": "dhammapada-270",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 270
+  },
+  {
+    "id": "dhammapada-271",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 271
+  },
+  {
+    "id": "dhammapada-272",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 272
+  },
+  {
+    "id": "dhammapada-273",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 273
+  },
+  {
+    "id": "dhammapada-274",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 274
+  },
+  {
+    "id": "dhammapada-275",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 275
+  },
+  {
+    "id": "dhammapada-276",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 276
+  },
+  {
+    "id": "dhammapada-277",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 277
+  },
+  {
+    "id": "dhammapada-278",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 278
+  },
+  {
+    "id": "dhammapada-279",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 279
+  },
+  {
+    "id": "dhammapada-280",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 280
+  },
+  {
+    "id": "dhammapada-281",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 281
+  },
+  {
+    "id": "dhammapada-282",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 282
+  },
+  {
+    "id": "dhammapada-283",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 283
+  },
+  {
+    "id": "dhammapada-284",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 284
+  },
+  {
+    "id": "dhammapada-285",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 285
+  },
+  {
+    "id": "dhammapada-286",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 286
+  },
+  {
+    "id": "dhammapada-287",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 287
+  },
+  {
+    "id": "dhammapada-288",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 288
+  },
+  {
+    "id": "dhammapada-289",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 289
+  },
+  {
+    "id": "dhammapada-290",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 290
+  },
+  {
+    "id": "dhammapada-291",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 291
+  },
+  {
+    "id": "dhammapada-292",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 292
+  },
+  {
+    "id": "dhammapada-293",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 293
+  },
+  {
+    "id": "dhammapada-294",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 294
+  },
+  {
+    "id": "dhammapada-295",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 295
+  },
+  {
+    "id": "dhammapada-296",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 296
+  },
+  {
+    "id": "dhammapada-297",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 297
+  },
+  {
+    "id": "dhammapada-298",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 298
+  },
+  {
+    "id": "dhammapada-299",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 299
+  },
+  {
+    "id": "dhammapada-300",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 300
+  },
+  {
+    "id": "dhammapada-301",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 301
+  },
+  {
+    "id": "dhammapada-302",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 302
+  },
+  {
+    "id": "dhammapada-303",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 303
+  },
+  {
+    "id": "dhammapada-304",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 304
+  },
+  {
+    "id": "dhammapada-305",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 305
+  },
+  {
+    "id": "dhammapada-306",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 306
+  },
+  {
+    "id": "dhammapada-307",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 307
+  },
+  {
+    "id": "dhammapada-308",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 308
+  },
+  {
+    "id": "dhammapada-309",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 309
+  },
+  {
+    "id": "dhammapada-310",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 310
+  },
+  {
+    "id": "dhammapada-311",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 311
+  },
+  {
+    "id": "dhammapada-312",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 312
+  },
+  {
+    "id": "dhammapada-313",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 313
+  },
+  {
+    "id": "dhammapada-314",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 314
+  },
+  {
+    "id": "dhammapada-315",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 315
+  },
+  {
+    "id": "dhammapada-316",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 316
+  },
+  {
+    "id": "dhammapada-317",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 317
+  },
+  {
+    "id": "dhammapada-318",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 318
+  },
+  {
+    "id": "dhammapada-319",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 319
+  },
+  {
+    "id": "dhammapada-320",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 320
+  },
+  {
+    "id": "dhammapada-321",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 321
+  },
+  {
+    "id": "dhammapada-322",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 322
+  },
+  {
+    "id": "dhammapada-323",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 323
+  },
+  {
+    "id": "dhammapada-324",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 324
+  },
+  {
+    "id": "dhammapada-325",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 325
+  },
+  {
+    "id": "dhammapada-326",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 326
+  },
+  {
+    "id": "dhammapada-327",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 327
+  },
+  {
+    "id": "dhammapada-328",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 328
+  },
+  {
+    "id": "dhammapada-329",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 329
+  },
+  {
+    "id": "dhammapada-330",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 330
+  },
+  {
+    "id": "dhammapada-331",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 331
+  },
+  {
+    "id": "dhammapada-332",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 332
+  },
+  {
+    "id": "dhammapada-333",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 333
+  },
+  {
+    "id": "dhammapada-334",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 334
+  },
+  {
+    "id": "dhammapada-335",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+    "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):1",
+    "dayOfYear": 335
+  },
+  {
+    "id": "dhammapada-336",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+    "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+    "reference": "The Dhammapada — Sahassa-vagga (The Thousands):2",
+    "dayOfYear": 336
+  },
+  {
+    "id": "dhammapada-337",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+    "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):1",
+    "dayOfYear": 337
+  },
+  {
+    "id": "dhammapada-338",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+    "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+    "reference": "The Dhammapada — Atta-vagga (The Self):2",
+    "dayOfYear": 338
+  },
+  {
+    "id": "dhammapada-339",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+    "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):1",
+    "dayOfYear": 339
+  },
+  {
+    "id": "dhammapada-340",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+    "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):2",
+    "dayOfYear": 340
+  },
+  {
+    "id": "dhammapada-341",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+    "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+    "reference": "The Dhammapada — Magga-vagga (The Path):3",
+    "dayOfYear": 341
+  },
+  {
+    "id": "dhammapada-342",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):1",
+    "dayOfYear": 342
+  },
+  {
+    "id": "dhammapada-343",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+    "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):2",
+    "dayOfYear": 343
+  },
+  {
+    "id": "dhammapada-344",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):3",
+    "dayOfYear": 344
+  },
+  {
+    "id": "dhammapada-345",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+    "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):4",
+    "dayOfYear": 345
+  },
+  {
+    "id": "dhammapada-346",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+    "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):5",
+    "dayOfYear": 346
+  },
+  {
+    "id": "dhammapada-347",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+    "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+    "reference": "The Dhammapada — Yamaka-vagga (The Twin Verses):6",
+    "dayOfYear": 347
+  },
+  {
+    "id": "dhammapada-348",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+    "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):1",
+    "dayOfYear": 348
+  },
+  {
+    "id": "dhammapada-349",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+    "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):2",
+    "dayOfYear": 349
+  },
+  {
+    "id": "dhammapada-350",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+    "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):3",
+    "dayOfYear": 350
+  },
+  {
+    "id": "dhammapada-351",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+    "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+    "reference": "The Dhammapada — Appamada-vagga (Heedfulness):4",
+    "dayOfYear": 351
+  },
+  {
+    "id": "dhammapada-352",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+    "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):1",
+    "dayOfYear": 352
+  },
+  {
+    "id": "dhammapada-353",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+    "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):2",
+    "dayOfYear": 353
+  },
+  {
+    "id": "dhammapada-354",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+    "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):3",
+    "dayOfYear": 354
+  },
+  {
+    "id": "dhammapada-355",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+    "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):4",
+    "dayOfYear": 355
+  },
+  {
+    "id": "dhammapada-356",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+    "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+    "reference": "The Dhammapada — Citta-vagga (The Mind):5",
+    "dayOfYear": 356
+  },
+  {
+    "id": "dhammapada-357",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+    "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):1",
+    "dayOfYear": 357
+  },
+  {
+    "id": "dhammapada-358",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+    "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+    "reference": "The Dhammapada — Puppha-vagga (Flowers):2",
+    "dayOfYear": 358
+  },
+  {
+    "id": "dhammapada-359",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+    "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):1",
+    "dayOfYear": 359
+  },
+  {
+    "id": "dhammapada-360",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+    "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):2",
+    "dayOfYear": 360
+  },
+  {
+    "id": "dhammapada-361",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+    "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+    "reference": "The Dhammapada — Bala-vagga (The Fool):3",
+    "dayOfYear": 361
+  },
+  {
+    "id": "dhammapada-362",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+    "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):1",
+    "dayOfYear": 362
+  },
+  {
+    "id": "dhammapada-363",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+    "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+    "reference": "The Dhammapada — Pandita-vagga (The Wise):2",
+    "dayOfYear": 363
+  },
+  {
+    "id": "dhammapada-364",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+    "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):1",
+    "dayOfYear": 364
+  },
+  {
+    "id": "dhammapada-365",
+    "book": "dhammapada",
+    "tradition": "Buddhism",
+    "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+    "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+    "reference": "The Dhammapada — Arahanta-vagga (The Liberated):2",
+    "dayOfYear": 365
+  }
+]

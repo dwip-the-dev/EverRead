@@ -1,0 +1,92 @@
+{
+  "id": "7-day",
+  "book": "analects",
+  "name": "7-Day Foundation",
+  "totalDays": 7,
+  "days": [
+    {
+      "day": 1,
+      "read": [
+        {
+          "section": "analects-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "read": [
+        {
+          "section": "analects-core",
+          "chapter": 2,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "read": [
+        {
+          "section": "analects-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "read": [
+        {
+          "section": "analects-core",
+          "chapter": 2,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "read": [
+        {
+          "section": "analects-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "read": [
+        {
+          "section": "analects-core",
+          "chapter": 2,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "read": [
+        {
+          "section": "analects-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    }
+  ]
+}

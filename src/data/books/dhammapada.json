@@ -1,0 +1,271 @@
+{
+  "id": "dhammapada",
+  "name": "The Dhammapada",
+  "religion": "Buddhism",
+  "translation": "Pali Canon — Max Müller & Buddhist Publication Society",
+  "unitLabel": "Chapter",
+  "sections": [
+    {
+      "id": "dhammapada-main",
+      "name": "The Dhammapada (Path of Dhamma)",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "Yamaka-vagga (The Twin Verses)",
+          "subtitle": "On the nature of thought, speech, and consequence",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with an impure mind a person speaks or acts, suffering follows him like the wheel that follows the foot of the ox.",
+              "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce paduṭṭhena bhāsati vā karoti vā, tato naṁ dukkhamanveti cakkaṁva vahato padaṁ.",
+              "transliteration": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā..."
+            },
+            {
+              "number": 2,
+              "text": "Mind precedes all mental states. Mind is their chief; they are all mind-wrought. If with a pure mind a person speaks or acts, happiness follows him like his never-departing shadow.",
+              "original": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā, manasā ce pasannena bhāsati vā karoti vā, tato naṁ sukhamanveti chāyāva anapāyinī.",
+              "transliteration": "Manopubbaṅgamā dhammā manosseṭṭhā manomayā..."
+            },
+            {
+              "number": 3,
+              "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who harbor such thoughts, hatred is not appeased.",
+              "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ upanayhanti veraṁ tesaṁ na sammati.",
+              "transliteration": "Akkocchi maṁ avadhi maṁ..."
+            },
+            {
+              "number": 4,
+              "text": "‘He abused me, he struck me, he defeated me, he robbed me’ — in those who do not harbor such thoughts, hatred is appeased.",
+              "original": "Akkocchi maṁ avadhi maṁ ajini maṁ ahāsi me, ye ca taṁ nupanayhanti veraṁ tesūpasammati.",
+              "transliteration": "Akkocchi maṁ avadhi maṁ..."
+            },
+            {
+              "number": 5,
+              "text": "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal truth.",
+              "original": "Na hi verena verāni sammantīdha kudācanaṁ, averena ca sammanti esa dhammo sanantano.",
+              "transliteration": "Na hi verena verāni sammantīdha kudācanaṁ..."
+            },
+            {
+              "number": 6,
+              "text": "There are those who do not realize that one day we all must die. But those who do realize this settle their quarrels at once.",
+              "original": "Pare ca na vijānanti mayamettha yamāmase, ye ca tattha vijānanti tato sammanti medhagā.",
+              "transliteration": "Pare ca na vijānanti..."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Appamada-vagga (Heedfulness)",
+          "subtitle": "On mindfulness, vigilance, and liberation",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Heedfulness is the path to the Deathless (Nibbana); heedlessness is the path to death. The heedful do not die; the heedless are like unto the dead already.",
+              "original": "Appamādo amatapadaṁ pamādo maccuno padaṁ, appamattā na mīyanti ye pamattā yathā matā.",
+              "transliteration": "Appamādo amatapadaṁ pamādo maccuno padaṁ..."
+            },
+            {
+              "number": 2,
+              "text": "Clearly understanding this excellence of heedfulness, the wise rejoice in heedfulness, delighting in the realm of the Noble Ones.",
+              "original": "Evaṁ visesato ñatvā appamādamhi paṇḍitā, appamāde pamodanti ariyānaṁ gocare ratā.",
+              "transliteration": "Evaṁ visesato ñatvā..."
+            },
+            {
+              "number": 3,
+              "text": "These wise ones, meditative, persevering, always using strong effort, attain Nibbana, the unsurpassed freedom from bondage.",
+              "original": "Te jhāyino sātatikā niccaṁ daḷhaparakkamā, phusanti dhīrā nibbānaṁ yogakkhemaṁ anuttaraṁ.",
+              "transliteration": "Te jhāyino sātatikā..."
+            },
+            {
+              "number": 4,
+              "text": "Whoever is energetic, mindful, pure in conduct, discerning, self-restrained, righteous in living, and heedful — his glory grows.",
+              "original": "Uṭṭhānavato satimato sucikammassa nisammakārino, saññatassa ca dhammajīvino appamattassa yasobhivaḍḍhati.",
+              "transliteration": "Uṭṭhānavato satimato..."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Citta-vagga (The Mind)",
+          "subtitle": "On guarding and mastering the restless mind",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Just as a fletcher straightens an arrow, so the discerning person straightens the mind, which is fickle, wavering, difficult to guard and difficult to control.",
+              "original": "Phandanaṁ capalaṁ cittaṁ durakkhaṁ dunnivārayaṁ, ujuṁ karoti medhāvī usukārova tejanaṁ.",
+              "transliteration": "Phandanaṁ capalaṁ cittaṁ..."
+            },
+            {
+              "number": 2,
+              "text": "Like a fish pulled from its watery home and cast on dry ground, this mind thrashes about trying to escape the realm of Mara.",
+              "original": "Vārijova thale khitto okamokataubbhuto, pariphandatidaṁ cittaṁ māradheyyaṁ pahātave.",
+              "transliteration": "Vārijova thale khitto..."
+            },
+            {
+              "number": 3,
+              "text": "Hard to restrain, swift, flying wherever it pleases is the mind. To master such a mind is good; a controlled mind brings true happiness.",
+              "original": "Dunniggahassa lahuno yatthakāmanipātino, cittassa damatho sādhu cittaṁ dantaṁ sukhāvahaṁ.",
+              "transliteration": "Dunniggahassa lahuno..."
+            },
+            {
+              "number": 4,
+              "text": "Whatever a hater may do to a hater, or an enemy to an enemy, a wrongly directed mind does oneself far greater harm.",
+              "original": "Diso disaṁ yaṁ taṁ kayirā verī vā pana verinaṁ, micchāpaṇihitaṁ cittaṁ pāpiyo naṁ tato kare.",
+              "transliteration": "Diso disaṁ yaṁ taṁ kayirā..."
+            },
+            {
+              "number": 5,
+              "text": "Neither father nor mother, nor any other relative can do as much good as a well-directed mind.",
+              "original": "Na taṁ mātā pitā kayirā aññe vāpi ca ñātakā, sammāpaṇihitaṁ cittaṁ seyyaso naṁ tato kare.",
+              "transliteration": "Na taṁ mātā pitā kayirā..."
+            }
+          ]
+        },
+        {
+          "number": 4,
+          "name": "Puppha-vagga (Flowers)",
+          "subtitle": "On gathering the fragrant flowers of virtue",
+          "verses": [
+            {
+              "number": 1,
+              "text": "The scent of flowers does not travel against the wind, nor that of sandalwood, tagara, or jasmine. But the fragrance of the virtuous travels against the wind; the virtuous person pervades all directions.",
+              "original": "Na pupphagandho paṭivātameti na candanaṁ tagaramallikā vā, satañca gandho paṭivātameti sabbā disā sappuriso pavāyati.",
+              "transliteration": "Na pupphagandho paṭivātameti..."
+            },
+            {
+              "number": 2,
+              "text": "Just as from a heap of flowers many garlands can be made, so by a mortal once born many good deeds should be done.",
+              "original": "Yathāpi puppharāsimhā kayirā mālāguṇe bahū, evaṁ jātena maccena kattabbaṁ kusalaṁ bahuṁ.",
+              "transliteration": "Yathāpi puppharāsimhā..."
+            }
+          ]
+        },
+        {
+          "number": 5,
+          "name": "Bala-vagga (The Fool)",
+          "subtitle": "On ignorance and wisdom",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Long is the night to the sleepless; long is the league to the weary traveler; long is the round of rebirth (samsara) to the foolish who know not the sublime truth.",
+              "original": "Dīghā jāgarato ratti dīghaṁ santassa yojanaṁ, dīgho bālānaṁ saṁsāro saddhammaṁ avijānataṁ.",
+              "transliteration": "Dīghā jāgarato ratti..."
+            },
+            {
+              "number": 2,
+              "text": "If a traveler does not meet a companion who is better or equal, let him firmly pursue a solitary course; there is no fellowship with a fool.",
+              "original": "Carañce nādhigaccheyya seyyaṁ sadisamattano, ekacariyaṁ daḷhaṁ kayirā natthi bāle sahāyatā.",
+              "transliteration": "Carañce nādhigaccheyya..."
+            },
+            {
+              "number": 3,
+              "text": "A fool who knows his foolishness is wise at least to that extent. But a fool who thinks he is wise is called a fool indeed.",
+              "original": "Yo bālo maññati bālyaṁ paṇḍito vāpi tena so, bālo ca paṇḍitamānī sa ve bāloti vuccati.",
+              "transliteration": "Yo bālo maññati bālyaṁ..."
+            }
+          ]
+        },
+        {
+          "number": 6,
+          "name": "Pandita-vagga (The Wise)",
+          "subtitle": "On true discernment and serenity",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Just as a solid rock is not shaken by the wind, even so the wise are not moved by praise or blame.",
+              "original": "Selo yathā ekaghano vātena na samīrati, evaṁ nindāpasaṁsāsu na samiñjanti paṇḍitā.",
+              "transliteration": "Selo yathā ekaghano..."
+            },
+            {
+              "number": 2,
+              "text": "Even as a deep, still lake is clear and calm, so the wise become tranquil after listening to the Dhamma.",
+              "original": "Yathāpi rahado gambhīro vippasanno anāvilo, evaṁ dhammāni sutvāna vippasīdanti paṇḍitā.",
+              "transliteration": "Yathāpi rahado gambhīro..."
+            }
+          ]
+        },
+        {
+          "number": 7,
+          "name": "Arahanta-vagga (The Liberated)",
+          "subtitle": "On the joy of freedom from craving",
+          "verses": [
+            {
+              "number": 1,
+              "text": "For him who has completed his journey, who is free from sorrow, liberated in every way, and has shed all bonds — no fever of passion exists.",
+              "original": "Gataddhino visokassa vippamuttassa sabbadhi, sabbaganthappahīnassa pariḷāho na vijjati.",
+              "transliteration": "Gataddhino visokassa..."
+            },
+            {
+              "number": 2,
+              "text": "Calm is his mind, calm is his speech, and calm is his action who, through right knowledge, is wholly freed and at peace.",
+              "original": "Santaṁ tassa manaṁ hoti santā vācā ca kamma ca, sammadaññā vimuttassa upasantassa tādino.",
+              "transliteration": "Santaṁ tassa manaṁ hoti..."
+            }
+          ]
+        },
+        {
+          "number": 8,
+          "name": "Sahassa-vagga (The Thousands)",
+          "subtitle": "On the supreme value of one word of peace",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Better than a thousand useless words is one single meaningful word, upon hearing which one attains peace.",
+              "original": "Sahassamapi ce vācā anatthapadasaṁhitā, ekaṁ atthapadaṁ seyyo yaṁ sutvā upasammati.",
+              "transliteration": "Sahassamapi ce vācā..."
+            },
+            {
+              "number": 2,
+              "text": "Though one may conquer in battle a thousand times a thousand men, yet he who conquers himself alone is the greatest of conquerors.",
+              "original": "Yo sahassaṁ sahassena saṅgāme mānuse jine, ekañca jeyyamattānaṁ sa ve saṅgāmajuttamo.",
+              "transliteration": "Yo sahassaṁ sahassena..."
+            }
+          ]
+        },
+        {
+          "number": 9,
+          "name": "Atta-vagga (The Self)",
+          "subtitle": "On self-reliance and self-purification",
+          "verses": [
+            {
+              "number": 1,
+              "text": "One truly is the protector of oneself; who else could the protector be? With oneself thoroughly tamed, one discovers a refuge that is hard to gain.",
+              "original": "Attā hi attano nātho ko hi nātho paro siyā, attanā hi sudantena nāthaṁ labhati dullabhaṁ.",
+              "transliteration": "Attā hi attano nātho..."
+            },
+            {
+              "number": 2,
+              "text": "By oneself alone is evil done; by oneself is one defiled. By oneself is evil left undone; by oneself is one purified. Purity and impurity depend on oneself; no one can purify another.",
+              "original": "Attanā hi kataṁ pāpaṁ attanā saṅkilissati, attanā akataṁ pāpaṁ attanāva visujjhati, suddhī asuddhī paccattaṁ nāñño aññaṁ visodhaye.",
+              "transliteration": "Attanā hi kataṁ pāpaṁ..."
+            }
+          ]
+        },
+        {
+          "number": 10,
+          "name": "Magga-vagga (The Path)",
+          "subtitle": "The Noble Eightfold Path to liberation",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Of paths the Eightfold is the best; of truths the Four Sayings are the best; of virtues detachment is the best; and of men the Seer (the Buddha) is the best.",
+              "original": "Maggānaṭṭhaṅgiko seṭṭho saccānaṁ caturo padā, virāgo seṭṭho dhammānaṁ dvipadānañca cakkhumā.",
+              "transliteration": "Maggānaṭṭhaṅgiko seṭṭho..."
+            },
+            {
+              "number": 2,
+              "text": "This is the only path; there is no other that leads to the purification of insight. Follow this path, and you will confound Mara (illusion).",
+              "original": "Esove maggo natthañño dassanassa visuddhiyā, etaṁhi tumhe paṭipajjatha mārassetaṁ pamohanaṁ.",
+              "transliteration": "Esove maggo natthañño..."
+            },
+            {
+              "number": 3,
+              "text": "You yourselves must strive; the Buddhas only show the way. Those who enter the path and practice meditation are freed from the bonds of death.",
+              "original": "Tumhehi kiccamātappaṁ akkhātāro tathāgatā, paṭipannā pamokkhanti jhāyino mārabandhanā.",
+              "transliteration": "Tumhehi kiccamātappaṁ..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

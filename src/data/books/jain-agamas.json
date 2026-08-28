@@ -1,0 +1,40 @@
+{
+  "id": "jain-agamas",
+  "name": "The Jain Agamas & Tattvartha Sutra",
+  "religion": "Jainism",
+  "translation": "Acharya Umasvati — Nathmal Tatia & Sacred Texts Heritage",
+  "unitLabel": "Chapter",
+  "sections": [
+    {
+      "id": "jain-core",
+      "name": "Tattvartha Sutra & Acaranga Sutra",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "The Three Jewels of Liberation (Ratnatraya)",
+          "subtitle": "Right faith, right knowledge, and right conduct",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Right faith (Samyak Darshana), right knowledge (Samyak Jnana), and right conduct (Samyak Charitra) together constitute the path to liberation.",
+              "original": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ॥",
+              "transliteration": "Samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ."
+            },
+            {
+              "number": 2,
+              "text": "Non-violence is the supreme religion (Ahimsa Paramo Dharmah). All living beings desire to live; no one wishes to be harmed or killed.",
+              "original": "अहिंसा परमो धर्मः । सर्वे जीवाः सुखमेधन्ते न कश्चिन्मरणं प्रियम् ॥",
+              "transliteration": "Ahiṁsā paramo dharmaḥ. Sarve jīvāḥ sukhamedhante..."
+            },
+            {
+              "number": 3,
+              "text": "Souls render service to one another (Parasparopagraho Jivanam). Life is interdependent.",
+              "original": "परस्परोपग्रहो जीवानाम् ॥",
+              "transliteration": "Parasparopagraho jīvānām."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

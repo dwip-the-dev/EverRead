@@ -1,0 +1,59 @@
+{
+  "id": "vedas",
+  "name": "The Vedas",
+  "religion": "Hinduism",
+  "translation": "Rigveda Sacred Hymns — Ralph T.H. Griffith & Wendy Doniger",
+  "unitLabel": "Hymn",
+  "sections": [
+    {
+      "id": "rigveda-core",
+      "name": "Rigveda Hymns of Dawn, Creation, and Peace",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "Nasadiya Sukta (Hymn of Creation)",
+          "subtitle": "Rigveda Mandala 10, Hymn 129",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Then was not non-existence nor existence; there was no realm of air, no sky beyond it. What covered it, and where? And what gave shelter? Was water there, unfathomed depth of water?",
+              "original": "नासदासीन्नो सदासीत्तदानीं नासीद्रजो नो व्योमा परो यत् । किमावरीवः कुह कस्य शर्मन्नम्भः किमासीद्गहनं गभीरम् ॥",
+              "transliteration": "Nāsad āsīn no sad āsīt tadānīṁ..."
+            },
+            {
+              "number": 2,
+              "text": "Death was not then, nor was there aught immortal; no sign was there, the day’s and night’s divider. That One Thing, breathless, breathed by its own nature; apart from it was nothing whatsoever.",
+              "original": "न मृत्युरासीदमृतं न तर्हि न रात्र्या अह्न आसीत्प्रकेतः । आनीदवातं स्वधया तदेकं तस्माद्धान्यन्न परः किञ्चनास ॥",
+              "transliteration": "Na mṛtyur āsīd amṛtaṁ na tarhi..."
+            },
+            {
+              "number": 3,
+              "text": "Darkness there was; at first concealed in darkness, this all was undifferentiated water. That which had become enclosed in void, that One arose through the power of warmth (tapas).",
+              "original": "तम आसीत्तमसा गूळ्हमग्रेऽप्रकेतं सलिलं सर्वमा इदम् । तुच्छ्येनाभ्वपिहितं यदासीत्तपसस्तन्महिनाजायतैकम् ॥",
+              "transliteration": "Tama āsīt tamasā gūḷham agre..."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Gayatri & Sam No Mitra (Hymns of Light & Harmony)",
+          "subtitle": "Prayers for universal illumination and cosmic peace",
+          "verses": [
+            {
+              "number": 1,
+              "text": "We meditate on the adorable effulgence of that Divine Sun (Savitur); may that light inspire and illumine our understanding.",
+              "original": "ॐ भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् ॥",
+              "transliteration": "Oṁ bhūr bhuvaḥ svaḥ tat savitur vareṇyaṁ bhargo devasya dhīmahi dhiyo yo naḥ pracodayāt."
+            },
+            {
+              "number": 2,
+              "text": "May your purpose be one; may your hearts be in harmony; may your minds be in common accord, so that there may be a happy union among you.",
+              "original": "समानी व आकूतिः समाना हृदयानि वः । समानमस्तु वो मनो यथा वः सुसहासति ॥",
+              "transliteration": "Samānī va ākūtiḥ samānā hṛdayāni vaḥ..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

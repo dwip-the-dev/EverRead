@@ -1,5 +1,7 @@
 {
-  "name": "tanstack_start_ts",
+  "name": "everread",
+  "version": "1.0.0",
+  "description": "EverRead — A quiet daily scripture reading companion",
   "private": true,
   "sideEffects": false,
   "type": "module",

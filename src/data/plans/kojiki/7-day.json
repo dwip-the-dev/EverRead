@@ -1,0 +1,92 @@
+{
+  "id": "7-day",
+  "book": "kojiki",
+  "name": "7-Day Foundation",
+  "totalDays": 7,
+  "days": [
+    {
+      "day": 1,
+      "read": [
+        {
+          "section": "kojiki-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "read": [
+        {
+          "section": "kojiki-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "read": [
+        {
+          "section": "kojiki-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "read": [
+        {
+          "section": "kojiki-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "read": [
+        {
+          "section": "kojiki-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "read": [
+        {
+          "section": "kojiki-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "read": [
+        {
+          "section": "kojiki-core",
+          "chapter": 1,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    }
+  ]
+}

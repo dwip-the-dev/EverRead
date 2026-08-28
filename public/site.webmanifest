@@ -1,0 +1,29 @@
+{
+  "name": "EverRead — Daily Scripture Reading Companion for 14 World Traditions",
+  "short_name": "EverRead",
+  "description": "A quiet daily reading companion for 14 world sacred traditions — Holy Bible, Quran, Bhagavad Gita, Upanishads, Vedas, Dhammapada, Tanakh, Tao Te Ching, Analects, Guru Granth Sahib, Jain Agamas, Kojiki, Avesta & Bahá'í Hidden Words. Track your reading habit, streaks, and progress 100% offline with no accounts.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f6f0",
+  "theme_color": "#f8f6f0",
+  "categories": ["lifestyle", "education", "books"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

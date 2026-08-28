@@ -1,0 +1,368 @@
+{
+  "id": "30-day",
+  "book": "tanakh",
+  "name": "30-Day Master",
+  "totalDays": 30,
+  "days": [
+    {
+      "day": 1,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 1,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "read": [
+        {
+          "section": "torah-psalms",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    }
+  ]
+}

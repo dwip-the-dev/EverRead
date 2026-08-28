@@ -1,0 +1,59 @@
+{
+  "id": "analects",
+  "name": "The Analects",
+  "religion": "Confucianism",
+  "translation": "Confucius (Lunyu) — James Legge & Arthur Waley",
+  "unitLabel": "Book",
+  "sections": [
+    {
+      "id": "analects-core",
+      "name": "The Sayings of Master Kong",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "Xue Er (On Learning & Integrity)",
+          "subtitle": "The joy of learning and noble character",
+          "verses": [
+            {
+              "number": 1,
+              "text": "The Master said: 'Is it not pleasant to learn with a constant perseverance and application? Is it not delightful to have friends coming from distant quarters? Is he not a noble person who feels no discomposure though men take no note of him?'",
+              "original": "子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」",
+              "transliteration": "Zǐ yuē: Xué ér shí xí zhī, bù yì yuè hū?..."
+            },
+            {
+              "number": 2,
+              "text": "Master Zeng said: 'I daily examine myself on three points: whether, in transacting business for others, I have failed to be faithful; whether, in intercourse with friends, I have failed to be sincere; whether I have failed to practice what I have been taught.'",
+              "original": "曾子曰：「吾日三省吾身：為人謀而不忠乎？與朋友交而不信乎？傳不習乎？」",
+              "transliteration": "Zēngzǐ yuē: Wú rì sān xǐng wú shēn..."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Wei Zheng (On Governance & Virtue)",
+          "subtitle": "Leading through moral excellence rather than force",
+          "verses": [
+            {
+              "number": 1,
+              "text": "The Master said: 'He who exercises government by means of his virtue may be compared to the north polar star, which keeps its place and all the stars turn towards it.'",
+              "original": "子曰：「為政以德，譬如北辰，居其所而眾星共之。」",
+              "transliteration": "Zǐ yuē: Wéi zhèng yǐ dé, pì rú běi chén..."
+            },
+            {
+              "number": 2,
+              "text": "The Master said: 'Learning without thought is labor lost; thought without learning is perilous.'",
+              "original": "子曰：「學而不思則罔，思而不學則殆。」",
+              "transliteration": "Zǐ yuē: Xué ér bù sī zé wǎng, sī ér bù xué zé dài."
+            },
+            {
+              "number": 3,
+              "text": "Zigong asked: 'Is there one single word that can guide one's entire life?' The Master said: 'Is not Reciprocity (Shu) such a word? What you do not want done to yourself, do not do to others.'",
+              "original": "子貢問曰：「有一言而可以終身行之者乎？」子曰：「其恕乎！己所不欲，勿施於人。」",
+              "transliteration": "Zǐgòng wèn yuē... Zǐ yuē: Qí shù hū! Jǐ suǒ bù yù, wù shī yú rén."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

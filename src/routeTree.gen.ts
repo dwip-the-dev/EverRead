@@ -11,6 +11,8 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as BookRouteImport } from './routes/book'
+import { Route as PrayerRouteImport } from './routes/prayer'
+import { Route as ProfileRouteImport } from './routes/profile'
 import { Route as QuotesRouteImport } from './routes/quotes'
 import { Route as ReadRouteImport } from './routes/read'
 
@@ -22,6 +24,16 @@ const IndexRoute = IndexRouteImport.update({
 const BookRoute = BookRouteImport.update({
   id: '/book',
   path: '/book',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PrayerRoute = PrayerRouteImport.update({
+  id: '/prayer',
+  path: '/prayer',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ProfileRoute = ProfileRouteImport.update({
+  id: '/profile',
+  path: '/profile',
   getParentRoute: () => rootRouteImport,
 } as any)
 const QuotesRoute = QuotesRouteImport.update({
@@ -38,12 +50,16 @@ const ReadRoute = ReadRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/book': typeof BookRoute
+  '/prayer': typeof PrayerRoute
+  '/profile': typeof ProfileRoute
   '/quotes': typeof QuotesRoute
   '/read': typeof ReadRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/book': typeof BookRoute
+  '/prayer': typeof PrayerRoute
+  '/profile': typeof ProfileRoute
   '/quotes': typeof QuotesRoute
   '/read': typeof ReadRoute
 }
@@ -51,20 +67,24 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/book': typeof BookRoute
+  '/prayer': typeof PrayerRoute
+  '/profile': typeof ProfileRoute
   '/quotes': typeof QuotesRoute
   '/read': typeof ReadRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/book' | '/quotes' | '/read'
+  fullPaths: '/' | '/book' | '/prayer' | '/profile' | '/quotes' | '/read'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/book' | '/quotes' | '/read'
-  id: '__root__' | '/' | '/book' | '/quotes' | '/read'
+  to: '/' | '/book' | '/prayer' | '/profile' | '/quotes' | '/read'
+  id: '__root__' | '/' | '/book' | '/prayer' | '/profile' | '/quotes' | '/read'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   BookRoute: typeof BookRoute
+  PrayerRoute: typeof PrayerRoute
+  ProfileRoute: typeof ProfileRoute
   QuotesRoute: typeof QuotesRoute
   ReadRoute: typeof ReadRoute
 }
@@ -83,6 +103,20 @@ declare module '@tanstack/react-router' {
       path: '/book'
       fullPath: '/book'
       preLoaderRoute: typeof BookRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/prayer': {
+      id: '/prayer'
+      path: '/prayer'
+      fullPath: '/prayer'
+      preLoaderRoute: typeof PrayerRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/profile': {
+      id: '/profile'
+      path: '/profile'
+      fullPath: '/profile'
+      preLoaderRoute: typeof ProfileRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/quotes': {
@@ -105,6 +139,8 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   BookRoute: BookRoute,
+  PrayerRoute: PrayerRoute,
+  ProfileRoute: ProfileRoute,
   QuotesRoute: QuotesRoute,
   ReadRoute: ReadRoute,
 }

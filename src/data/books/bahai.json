@@ -1,0 +1,59 @@
+{
+  "id": "bahai",
+  "name": "The Hidden Words",
+  "religion": "Baháʼí Faith",
+  "translation": "Bahá'u'lláh — Shoghi Effendi Authorized Translation",
+  "unitLabel": "Part",
+  "sections": [
+    {
+      "id": "hidden-words",
+      "name": "The Hidden Words of Bahá'u'lláh",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "From the Arabic",
+          "subtitle": "Meditations on the soul, love, and detachment",
+          "verses": [
+            {
+              "number": 1,
+              "text": "O Son of Spirit! My first counsel is this: Possess a pure, kindly and radiant heart, that thine may be a sovereignty ancient, imperishable and everlasting.",
+              "original": "يا ابن الروح! في أوّل القول أملك قلباً جيّداً حسناً منيراً لتملك ملكاً دائماً باقياً أزلاً قديماً.",
+              "transliteration": "Yā Ibna'r-Rūḥ! Fī awwali'l-qawli'mlik qalban jayyidan..."
+            },
+            {
+              "number": 2,
+              "text": "O Son of Spirit! The best beloved of all things in My sight is Justice; turn not away therefrom if thou desirest Me, and neglect it not that I may confide in thee.",
+              "original": "يا ابن الروح! أحبّ الأشياء عندي الإنصاف لا ترغب عنه إن تكن إليّ راغباً.",
+              "transliteration": "Yā Ibna'r-Rūḥ! Aḥabbu'l-ashyā'i 'indī'l-Inṣāf..."
+            },
+            {
+              "number": 3,
+              "text": "O Son of Man! Breathe not the sins of others so long as thou art thyself a sinner. Shouldst thou transgress this command, accursed wouldst thou be, and to this I bear witness.",
+              "original": "يا ابن الإنسان! لا تنفس خطيئة أحد ما دمت خاطئاً.",
+              "transliteration": "Yā Ibna'l-Insān! Lā tanaffas khaṭī'ata aḥadin..."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "name": "From the Persian",
+          "subtitle": "On humility, service to humanity, and inner illumination",
+          "verses": [
+            {
+              "number": 1,
+              "text": "O Son of Being! How couldst thou forget thine own faults and busy thyself with the faults of others? Whoso doeth this is accursed of Me.",
+              "original": "ای پسر وجود! چگونه خطای خود را فراموش کردی و بخطای دیگران پرداختی؟",
+              "transliteration": "Ey Pesare Vojud!..."
+            },
+            {
+              "number": 2,
+              "text": "O Friend! In the garden of thy heart plant naught but the rose of love, and from the nightingale of affection and desire loosen not thy hold.",
+              "original": "ای دوست! در روضه دل جز گل عشق مکار و از ذیل بلبل حبّ و شوق دست مدار.",
+              "transliteration": "Ey Doost! Dar rowzeye del..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

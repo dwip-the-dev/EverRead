@@ -1,0 +1,92 @@
+{
+  "id": "7-day",
+  "book": "dhammapada",
+  "name": "7-Day Foundation",
+  "totalDays": 7,
+  "days": [
+    {
+      "day": 1,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 1,
+          "from": 1,
+          "to": 6,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 2,
+          "from": 1,
+          "to": 4,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 3,
+          "from": 1,
+          "to": 5,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 4,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 5,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 6,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "read": [
+        {
+          "section": "dhammapada-main",
+          "chapter": 7,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    }
+  ]
+}

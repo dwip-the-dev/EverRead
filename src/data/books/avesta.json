@@ -1,0 +1,40 @@
+{
+  "id": "avesta",
+  "name": "The Avesta & The Gathas",
+  "religion": "Zoroastrianism",
+  "translation": "The Gathas of Zarathustra — L.H. Mills & D.J. Irani",
+  "unitLabel": "Yasna",
+  "sections": [
+    {
+      "id": "gathas-core",
+      "name": "The Sacred Gathas of Zarathustra",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "Ahunavaiti Gatha (Good Thoughts, Good Words, Good Deeds)",
+          "subtitle": "Humata, Hukhta, Hvarshta — The Triple Path of Asha",
+          "verses": [
+            {
+              "number": 1,
+              "text": "With hands outstretched in reverent prayer, I first beseech Thee, O Mazda, Most Benevolent Spirit, for the grace of Righteousness (Asha) in all deeds, and the wisdom of the Good Mind (Vohu Manah).",
+              "original": "ahiyâ yâsâ nemanghâ ustânazastô rafedhrayâ manyêush mazdâ pourvîm...",
+              "transliteration": "Ahiyâ yâsâ nemanghâ ustânazastô rafedhrayâ..."
+            },
+            {
+              "number": 2,
+              "text": "Righteousness (Asha) is the highest good; it is illumination and bliss. Bliss comes to him who is righteous for the sake of the highest Righteousness alone.",
+              "original": "Ašem Vohû vahištem astî, uštâ astî, uštâ ahmâi hyat ašâi vahištâi ašem.",
+              "transliteration": "Ashem Vohu vahishtem asti, ushta asti, ushta ahmai..."
+            },
+            {
+              "number": 3,
+              "text": "Humata, Hukhta, Hvarshta: Good Thoughts, Good Words, Good Deeds. Strive always to promote life, foster truth, and heal the world.",
+              "original": "humata hukhta hvarshta...",
+              "transliteration": "Humata, Hukhta, Hvarshta."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

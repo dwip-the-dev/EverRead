@@ -1,1 +1,600 @@
-{"id": "40-day", "book": "gita", "name": "40-Day Gentle", "totalDays": 40, "days": [{"day": 1, "read": [{"section": "gita", "chapter": 1, "from": 1, "to": 18, "full": false}]}, {"day": 2, "read": [{"section": "gita", "chapter": 1, "from": 19, "to": 35, "full": false}]}, {"day": 3, "read": [{"section": "gita", "chapter": 1, "from": 36, "to": 47, "full": false}, {"section": "gita", "chapter": 2, "from": 1, "to": 6, "full": false}]}, {"day": 4, "read": [{"section": "gita", "chapter": 2, "from": 7, "to": 23, "full": false}]}, {"day": 5, "read": [{"section": "gita", "chapter": 2, "from": 24, "to": 41, "full": false}]}, {"day": 6, "read": [{"section": "gita", "chapter": 2, "from": 42, "to": 58, "full": false}]}, {"day": 7, "read": [{"section": "gita", "chapter": 2, "from": 59, "to": 72, "full": false}, {"section": "gita", "chapter": 3, "from": 1, "to": 4, "full": false}]}, {"day": 8, "read": [{"section": "gita", "chapter": 3, "from": 5, "to": 21, "full": false}]}, {"day": 9, "read": [{"section": "gita", "chapter": 3, "from": 22, "to": 39, "full": false}]}, {"day": 10, "read": [{"section": "gita", "chapter": 3, "from": 40, "to": 43, "full": false}, {"section": "gita", "chapter": 4, "from": 1, "to": 13, "full": false}]}, {"day": 11, "read": [{"section": "gita", "chapter": 4, "from": 14, "to": 31, "full": false}]}, {"day": 12, "read": [{"section": "gita", "chapter": 4, "from": 32, "to": 42, "full": false}, {"section": "gita", "chapter": 5, "from": 1, "to": 6, "full": false}]}, {"day": 13, "read": [{"section": "gita", "chapter": 5, "from": 7, "to": 24, "full": false}]}, {"day": 14, "read": [{"section": "gita", "chapter": 5, "from": 25, "to": 29, "full": false}, {"section": "gita", "chapter": 6, "from": 1, "to": 12, "full": false}]}, {"day": 15, "read": [{"section": "gita", "chapter": 6, "from": 13, "to": 30, "full": false}]}, {"day": 16, "read": [{"section": "gita", "chapter": 6, "from": 31, "to": 47, "full": false}]}, {"day": 17, "read": [{"section": "gita", "chapter": 7, "from": 1, "to": 18, "full": false}]}, {"day": 18, "read": [{"section": "gita", "chapter": 7, "from": 19, "to": 30, "full": false}, {"section": "gita", "chapter": 8, "from": 1, "to": 5, "full": false}]}, {"day": 19, "read": [{"section": "gita", "chapter": 8, "from": 6, "to": 23, "full": false}]}, {"day": 20, "read": [{"section": "gita", "chapter": 8, "from": 24, "to": 28, "full": false}, {"section": "gita", "chapter": 9, "from": 1, "to": 12, "full": false}]}, {"day": 21, "read": [{"section": "gita", "chapter": 9, "from": 13, "to": 30, "full": false}]}, {"day": 22, "read": [{"section": "gita", "chapter": 9, "from": 31, "to": 34, "full": false}, {"section": "gita", "chapter": 10, "from": 1, "to": 14, "full": false}]}, {"day": 23, "read": [{"section": "gita", "chapter": 10, "from": 15, "to": 31, "full": false}]}, {"day": 24, "read": [{"section": "gita", "chapter": 10, "from": 32, "to": 42, "full": false}, {"section": "gita", "chapter": 11, "from": 1, "to": 7, "full": false}]}, {"day": 25, "read": [{"section": "gita", "chapter": 11, "from": 8, "to": 24, "full": false}]}, {"day": 26, "read": [{"section": "gita", "chapter": 11, "from": 25, "to": 42, "full": false}]}, {"day": 27, "read": [{"section": "gita", "chapter": 11, "from": 43, "to": 55, "full": false}, {"section": "gita", "chapter": 12, "from": 1, "to": 4, "full": false}]}, {"day": 28, "read": [{"section": "gita", "chapter": 12, "from": 5, "to": 20, "full": false}, {"section": "gita", "chapter": 13, "from": 1, "to": 2, "full": false}]}, {"day": 29, "read": [{"section": "gita", "chapter": 13, "from": 3, "to": 19, "full": false}]}, {"day": 30, "read": [{"section": "gita", "chapter": 13, "from": 20, "to": 35, "full": false}, {"section": "gita", "chapter": 14, "from": 1, "to": 2, "full": false}]}, {"day": 31, "read": [{"section": "gita", "chapter": 14, "from": 3, "to": 19, "full": false}]}, {"day": 32, "read": [{"section": "gita", "chapter": 14, "from": 20, "to": 27, "full": false}, {"section": "gita", "chapter": 15, "from": 1, "to": 10, "full": false}]}, {"day": 33, "read": [{"section": "gita", "chapter": 15, "from": 11, "to": 20, "full": false}, {"section": "gita", "chapter": 16, "from": 1, "to": 7, "full": false}]}, {"day": 34, "read": [{"section": "gita", "chapter": 16, "from": 8, "to": 24, "full": false}, {"section": "gita", "chapter": 17, "from": 1, "to": 1, "full": false}]}, {"day": 35, "read": [{"section": "gita", "chapter": 17, "from": 2, "to": 18, "full": false}]}, {"day": 36, "read": [{"section": "gita", "chapter": 17, "from": 19, "to": 28, "full": false}, {"section": "gita", "chapter": 18, "from": 1, "to": 8, "full": false}]}, {"day": 37, "read": [{"section": "gita", "chapter": 18, "from": 9, "to": 25, "full": false}]}, {"day": 38, "read": [{"section": "gita", "chapter": 18, "from": 26, "to": 43, "full": false}]}, {"day": 39, "read": [{"section": "gita", "chapter": 18, "from": 44, "to": 60, "full": false}]}, {"day": 40, "read": [{"section": "gita", "chapter": 18, "from": 61, "to": 78, "full": false}]}]}
+{
+  "id": "40-day",
+  "book": "gita",
+  "name": "40-Day Gentle",
+  "totalDays": 40,
+  "days": [
+    {
+      "day": 1,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 1,
+          "from": 1,
+          "to": 18,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 1,
+          "from": 19,
+          "to": 35,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 1,
+          "from": 36,
+          "to": 47,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 2,
+          "from": 1,
+          "to": 6,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 2,
+          "from": 7,
+          "to": 23,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 2,
+          "from": 24,
+          "to": 41,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 2,
+          "from": 42,
+          "to": 58,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 2,
+          "from": 59,
+          "to": 72,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 3,
+          "from": 1,
+          "to": 4,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 3,
+          "from": 5,
+          "to": 21,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 3,
+          "from": 22,
+          "to": 39,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 3,
+          "from": 40,
+          "to": 43,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 4,
+          "from": 1,
+          "to": 13,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 4,
+          "from": 14,
+          "to": 31,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 4,
+          "from": 32,
+          "to": 42,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 5,
+          "from": 1,
+          "to": 6,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 5,
+          "from": 7,
+          "to": 24,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 5,
+          "from": 25,
+          "to": 29,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 6,
+          "from": 1,
+          "to": 12,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 6,
+          "from": 13,
+          "to": 30,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 6,
+          "from": 31,
+          "to": 47,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 7,
+          "from": 1,
+          "to": 18,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 7,
+          "from": 19,
+          "to": 30,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 8,
+          "from": 1,
+          "to": 5,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 8,
+          "from": 6,
+          "to": 23,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 8,
+          "from": 24,
+          "to": 28,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 9,
+          "from": 1,
+          "to": 13,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 9,
+          "from": 14,
+          "to": 30,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 9,
+          "from": 31,
+          "to": 34,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 10,
+          "from": 1,
+          "to": 14,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 10,
+          "from": 15,
+          "to": 31,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 10,
+          "from": 32,
+          "to": 42,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 11,
+          "from": 1,
+          "to": 7,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 11,
+          "from": 8,
+          "to": 24,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 11,
+          "from": 25,
+          "to": 42,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 11,
+          "from": 43,
+          "to": 55,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 12,
+          "from": 1,
+          "to": 4,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 12,
+          "from": 5,
+          "to": 20,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 13,
+          "from": 1,
+          "to": 2,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 13,
+          "from": 3,
+          "to": 19,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 30,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 13,
+          "from": 20,
+          "to": 35,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 14,
+          "from": 1,
+          "to": 2,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 31,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 14,
+          "from": 3,
+          "to": 19,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 32,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 14,
+          "from": 20,
+          "to": 27,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 15,
+          "from": 1,
+          "to": 10,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 33,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 15,
+          "from": 11,
+          "to": 20,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 16,
+          "from": 1,
+          "to": 7,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 34,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 16,
+          "from": 8,
+          "to": 24,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 17,
+          "from": 1,
+          "to": 1,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 35,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 17,
+          "from": 2,
+          "to": 18,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 36,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 17,
+          "from": 19,
+          "to": 28,
+          "full": false
+        },
+        {
+          "section": "gita",
+          "chapter": 18,
+          "from": 1,
+          "to": 8,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 37,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 18,
+          "from": 9,
+          "to": 25,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 38,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 18,
+          "from": 26,
+          "to": 43,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 39,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 18,
+          "from": 44,
+          "to": 60,
+          "full": false
+        }
+      ]
+    },
+    {
+      "day": 40,
+      "read": [
+        {
+          "section": "gita",
+          "chapter": 18,
+          "from": 61,
+          "to": 78,
+          "full": false
+        }
+      ]
+    }
+  ]
+}

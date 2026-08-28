@@ -1,0 +1,77 @@
+{
+  "id": "tanakh",
+  "name": "The Tanakh & Pirkei Avot",
+  "religion": "Judaism",
+  "translation": "Hebrew Scripture & Mishnah Ethics — Traditional Translation",
+  "unitLabel": "Chapter",
+  "sections": [
+    {
+      "id": "torah-psalms",
+      "name": "Torah & Wisdom Selections",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "The Shema & The Commandments",
+          "subtitle": "The foundational declaration of faith and devotion",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Hear, O Israel: The Lord our God, the Lord is one.",
+              "original": "שְׁמַע יִשְׂרָאֵל יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד",
+              "transliteration": "Shema Yisrael Adonai Eloheinu Adonai Echad."
+            },
+            {
+              "number": 2,
+              "text": "And you shall love the Lord your God with all your heart and with all your soul and with all your might.",
+              "original": "וְאָהַבְתָּ אֵת יְהוָה אֱלֹהֶיךָ בְּכָל־לְבָבְךָ וּבְכָל־נַפְשְׁךָ וּבְכָל־מְאֹדֶךָ",
+              "transliteration": "V'ahavta et Adonai Elohecha b'chol l'vavcha..."
+            },
+            {
+              "number": 3,
+              "text": "You shall love your neighbor as yourself: I am the Lord.",
+              "original": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ אֲנִי יְהוָה",
+              "transliteration": "V'ahavta l're'acha kamocha, ani Adonai."
+            },
+            {
+              "number": 4,
+              "text": "He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly, to love mercy, and to walk humbly with your God.",
+              "original": "הִגִּיד לְךָ אָדָם מַה־טּוֹב וּמָה־יְהוָה דּוֹרֵשׁ מִמְּךָ כִּי אִם־עֲשׂוֹת מִשְׁפָּט וְאַהֲבַת חֶסֶד וְהַצְנֵעַ לֶכֶת עִם־אֱלֹהֶיךָ",
+              "transliteration": "Higgid l'cha adam mah tov..."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Pirkei Avot (Ethics of the Fathers)",
+          "subtitle": "Ancient rabbinic wisdom on duty, justice, and character",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Shimon the Righteous used to say: Upon three things the world stands: upon the Torah, upon divine service, and upon acts of loving-kindness.",
+              "original": "שִׁמְעוֹן הַצַּדִּיק הָיָה אוֹמֵר, עַל שְׁלשָׁה דְבָרִים הָעוֹלָם עוֹמֵד, עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+              "transliteration": "Al shlosha devarim ha'olam omed..."
+            },
+            {
+              "number": 2,
+              "text": "Hillel said: If I am not for myself, who will be for me? And being only for myself, what am I? And if not now, when?",
+              "original": "הוּא הָיָה אוֹמֵר, אִם אֵין אֲנִי לִי, מִי לִי. וּכְשֶׁאֲנִי לְעַצְמִי, מָה אֲנִי. וְאִם לֹא עַכְשָׁיו, אֵימָתַי",
+              "transliteration": "Im ein ani li, mi li? U'chshenani l'atzmi, mah ani? V'im lo achshav, eimatai?"
+            },
+            {
+              "number": 3,
+              "text": "Rabbi Tarfon said: It is not your duty to finish the work, but neither are you at liberty to neglect it.",
+              "original": "הוּא הָיָה אוֹמֵר, לֹא עָלֶיךָ הַמְּלָאכָה לִגְמֹר, וְלֹא אַתָּה בֶן חוֹרִין לִבָּטֵל מִמֶּנָּה",
+              "transliteration": "Lo alecha hamlacha ligmor..."
+            },
+            {
+              "number": 4,
+              "text": "Ben Zoma said: Who is wise? One who learns from every person. Who is strong? One who subdues his own impulses. Who is rich? One who rejoices in his portion.",
+              "original": "בֶּן זוֹמָא אוֹמֵר, אֵיזֶהוּ חָכָם, הַלּוֹמֵד מִכָּל אָדָם. אֵיזֶהוּ גִבּוֹר, הַכּוֹבֵשׁ אֶת יִצְרוֹ. אֵיזֶהוּ עָשִׁיר, הַשָּׂמֵחַ בְּחֶלְקוֹ",
+              "transliteration": "Eizehu chacham? Halomed mikol adam..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

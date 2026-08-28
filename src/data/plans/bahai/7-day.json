@@ -1,0 +1,92 @@
+{
+  "id": "7-day",
+  "book": "bahai",
+  "name": "7-Day Foundation",
+  "totalDays": 7,
+  "days": [
+    {
+      "day": 1,
+      "read": [
+        {
+          "section": "hidden-words",
+          "chapter": 1,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "read": [
+        {
+          "section": "hidden-words",
+          "chapter": 2,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "read": [
+        {
+          "section": "hidden-words",
+          "chapter": 1,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "read": [
+        {
+          "section": "hidden-words",
+          "chapter": 2,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "read": [
+        {
+          "section": "hidden-words",
+          "chapter": 1,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "read": [
+        {
+          "section": "hidden-words",
+          "chapter": 2,
+          "from": 1,
+          "to": 2,
+          "full": true
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "read": [
+        {
+          "section": "hidden-words",
+          "chapter": 1,
+          "from": 1,
+          "to": 3,
+          "full": true
+        }
+      ]
+    }
+  ]
+}

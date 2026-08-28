@@ -1,0 +1,84 @@
+{
+  "id": "upanishads",
+  "name": "The Upanishads",
+  "religion": "Hinduism",
+  "translation": "Principal Upanishads — Swami Nikhilananda & Max Müller",
+  "unitLabel": "Upanishad",
+  "sections": [
+    {
+      "id": "upanishads-core",
+      "name": "The Principal Upanishads",
+      "chapters": [
+        {
+          "number": 1,
+          "name": "Isha Upanishad",
+          "subtitle": "On all-pervading consciousness and renunciation",
+          "verses": [
+            {
+              "number": 1,
+              "text": "All this, whatsoever moves in this moving world, is enveloped by the Divine. Find your enjoyment in renunciation; covet not the wealth of any person.",
+              "original": "ॐ ईशा वास्यमिदँ सर्वं यत्किञ्च जगत्यां जगत् । तेन त्यक्तेन भुञ्जीथा मा गृधः कस्यस्विद्धनम् ॥",
+              "transliteration": "Oṁ īśā vāsyam idaṁ sarvaṁ yat kiñca jagatyāṁ jagat..."
+            },
+            {
+              "number": 2,
+              "text": "He who sees all beings in the Self alone, and the Self in all beings, feels no hatred by virtue of that realization.",
+              "original": "यस्तु सर्वाणि भूतान्यात्मन्येवानुपश्यति । सर्वभूतेषु चात्मानं ततो न विजुगुप्सते ॥",
+              "transliteration": "Yastu sarvāṇi bhūtāny ātmany evānupaśyati..."
+            },
+            {
+              "number": 3,
+              "text": "When to the seer all things have verily become the Self, what delusion, what sorrow can there be for him who beholds that oneness?",
+              "original": "यस्मिन्सर्वाणि भूतान्यात्मैवाभूद्विजानतः । तत्र को मोहः कः शोक एकत्वमनुपश्यतः ॥",
+              "transliteration": "Yasmin sarvāṇi bhūtāny ātmaivābhūd vijānataḥ..."
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "name": "Katha Upanishad",
+          "subtitle": "Nachiketa and Yama: The secret of immortality",
+          "verses": [
+            {
+              "number": 1,
+              "text": "The good is one thing, the pleasant another; these two, having different purposes, bind human beings. Of these two, it is well for him who chooses the good; he who chooses the pleasant misses the true goal.",
+              "original": "अन्यच्छ्रेयोऽन्यदुतैव प्रेयस्ते उभे नानार्थे पुरुषँ सिनीतः । तयोः श्रेय आददानस्य साधु भवति हीयतेऽर्थाद्य उ प्रेयो वृणीते ॥",
+              "transliteration": "Anyac chreyo 'nyad utaiva preyas..."
+            },
+            {
+              "number": 2,
+              "text": "Arise, awake, and learn by approaching the wise! Sharp as the edge of a razor and hard to cross, say the sages, is this path.",
+              "original": "उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत । क्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ॥",
+              "transliteration": "Uttiṣṭhata jāgrata prāpya varān nibodhata..."
+            },
+            {
+              "number": 3,
+              "text": "Knowing that which is soundless, touchless, formless, undecaying, tasteless, eternal, odorless, without beginning and without end, beyond the great — one is freed from the jaws of death.",
+              "original": "अशब्दमस्पर्शमरूपमव्ययं तथाऽरसं नित्यमगन्धवच्च यत् । अनाद्यनन्तं महतः परं ध्रुवं निचाय्य तन्मृत्युमुखात् प्रमुच्यते ॥",
+              "transliteration": "Aśabdam asparśam arūpam avyayaṁ..."
+            }
+          ]
+        },
+        {
+          "number": 3,
+          "name": "Mundaka & Mandukya Upanishads",
+          "subtitle": "Truth alone triumphs (Satyameva Jayate) and the nature of OM",
+          "verses": [
+            {
+              "number": 1,
+              "text": "Truth alone triumphs, not untruth. By truth is paved the divine path along which the sages, having their desires fulfilled, proceed to the supreme abode of Truth.",
+              "original": "सत्यमेव जयते नानृतं सत्येन पन्था विततो देवयानः । येनाक्रमन्त्यृषयो ह्याप्तकामा यत्र तत् सत्यस्य परमं निधानम् ॥",
+              "transliteration": "Satyameva jayate nānṛtaṁ..."
+            },
+            {
+              "number": 2,
+              "text": "OM — this syllable is all this. All that was, that is, and that will be is verily OM; and whatever is beyond the threefold time is also verily OM.",
+              "original": "ओमित्येतदक्षरमिदँ सर्वं तस्योपव्याख्यानं भूतं भवद् भविष्यदिति सर्वमोङ्कार एव । यच्चान्यत् त्रिकालातीतं तदपि ओङ्कार एव ॥",
+              "transliteration": "Om ity etad akṣaram idaṁ sarvam..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
